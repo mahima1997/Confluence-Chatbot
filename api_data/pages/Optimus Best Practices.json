@@ -1,0 +1,149 @@
+{
+  "id": "0fa63a6a2b8248f4a6f0d2ade05d5882",
+  "type": "page",
+  "status": "current",
+  "title": "Optimus Best Practices",
+  "space": {
+    "id": "optimus",
+    "key": "OPTIMUS",
+    "name": "Optimus",
+    "type": "global",
+    "status": "current"
+  },
+  "version": {
+    "by": {
+      "type": "known",
+      "username": "system",
+      "userKey": "system",
+      "profilePicture": {
+        "path": "/s/optimus/profilepics/default/avatar.png",
+        "width": 48,
+        "height": 48,
+        "isDefault": true
+      },
+      "displayName": "System",
+      "_links": {
+        "self": "https://confluence.example.com/rest/api/user?username=system"
+      }
+    },
+    "when": "2025-01-25T22:40:17.000Z",
+    "friendlyWhen": "Jan 25, 2025",
+    "message": "Initial version",
+    "number": 1
+  },
+  "ancestors": [],
+  "body": {
+    "storage": {
+      "value": "<table class=\"confluenceTable\"><tbody><tr><td class=\"confluenceTd\">If there is a plan to move budget from the</td><td class=\"confluenceTd\">campaign to off platformsT.com</td></tr><tr><td class=\"confluenceTd\">feature, feel free to reach out to</td><td class=\"confluenceTd\">or . Alternatively you can also refer the below confluence page which has @Kirthika.R @Komal.Shinde</td></tr></tbody></table><p>a.  \nb.  \na.  \nb.  \nc.  \nd.  \ne.  \nf.  \ng.  \na.  \nb.  \nc.  \na.  \na.  \na.  \nb.  \nc.  Optimus Best Practices\nBest Practices:\n1.Rejection Reason Best Practices -\nUse manual optimization rejection reason on CMP only if you do not find a legitimate reason among the others that are listed. Around \n1% rejections had incorrect options chosen when we did a deep dive. So please take extra caution in choosing the right one.\nUse the text box along with “manual optimization” option to list the exact reason behind the rejection. We currently have 38% of \nrejections with incomplete information in the text box.\n2. Use Campaign Level Eligibility Flag to turn off optimus Recommendations for below scenarios -\nIf your campaign is going through an A/B test, and you do not need Optimus recommendations – Use Campaign Eligibility flag to turn off \nrecommendations\nIf you are running campaign is pitched for an upsell and you are awaiting approval and do not need Optimus Recommendations - Use \nCampaign Eligibility flag to turn off recommendations\nIf it’s a multi-vendor campaign that you do not need recommendations for\nIf there is specific instruction to optimise a campaign on any other metric that is not provided by Optimus\nIf there is a plan to move budget from the  campaign to off platformsT.com\nIf media plan is revised – Turn if off until the changes are implemented\nIf new team members are onboarded and you want them to do manual optimization as a start\n3. Use Line Level Eligibility Flag to turn off optimus Recommendations for below scenarios -\nIf you are running an ad group that is pitched for an upsell and you are awaiting approval and do not need Optimus to add or remove \nbudget from that ad group - Use Line level Eligibility flag to turn off recommendations for that specific ad group\nIf the version has a different objective and doesn’t have to be optimised based on RoAS use line level eligibility to remove all the ad \ngroups from that version as today we do not have version level eligibility. We are expecting this to change as we think about OBB for \nO&O\nIf only a line is part of any A/B test\n4. Training & Awareness –\nIf you want to know about the working of any of the feature or why Optimus has made a recommendation even after the explainability \nfeature, feel free to reach out to  or . Alternatively you can also refer the below confluence page which has @Kirthika.R @Komal.Shinde\ncurated a knowledge hub\nhttps://confluence.target.com/display/Optimus/Optimus\nIf there are requests from AMs on any recommendations please refer to the explainability feature or reach out to us for the same\n5. A/B Tests –\nAlways ensure the settings between A vs B lines is equal at all times. Which settings/ features needs to be the same will be \ncommunicated to the T&O spoc prior to the A/B test. Any deviations disqualifies the lines from being considered in the results \nmeasurement due to the nature of the methodology behind it.\nIf for any reason the pacing/delivery settings or other changes needs to be made please notify on the shared sheet and let the A/B test \nproduct spoc know.\nPlease take extra caution to ensure the sync was successful once the change is made in the campaign/line</p>",
+      "representation": "storage"
+    },
+    "atlas_doc_format": {
+      "value": "<table class=\"confluenceTable\"><tbody><tr><td class=\"confluenceTd\">If there is a plan to move budget from the</td><td class=\"confluenceTd\">campaign to off platformsT.com</td></tr><tr><td class=\"confluenceTd\">feature, feel free to reach out to</td><td class=\"confluenceTd\">or . Alternatively you can also refer the below confluence page which has @Kirthika.R @Komal.Shinde</td></tr></tbody></table><p>a.  \nb.  \na.  \nb.  \nc.  \nd.  \ne.  \nf.  \ng.  \na.  \nb.  \nc.  \na.  \na.  \na.  \nb.  \nc.  Optimus Best Practices\nBest Practices:\n1.Rejection Reason Best Practices -\nUse manual optimization rejection reason on CMP only if you do not find a legitimate reason among the others that are listed. Around \n1% rejections had incorrect options chosen when we did a deep dive. So please take extra caution in choosing the right one.\nUse the text box along with “manual optimization” option to list the exact reason behind the rejection. We currently have 38% of \nrejections with incomplete information in the text box.\n2. Use Campaign Level Eligibility Flag to turn off optimus Recommendations for below scenarios -\nIf your campaign is going through an A/B test, and you do not need Optimus recommendations – Use Campaign Eligibility flag to turn off \nrecommendations\nIf you are running campaign is pitched for an upsell and you are awaiting approval and do not need Optimus Recommendations - Use \nCampaign Eligibility flag to turn off recommendations\nIf it’s a multi-vendor campaign that you do not need recommendations for\nIf there is specific instruction to optimise a campaign on any other metric that is not provided by Optimus\nIf there is a plan to move budget from the  campaign to off platformsT.com\nIf media plan is revised – Turn if off until the changes are implemented\nIf new team members are onboarded and you want them to do manual optimization as a start\n3. Use Line Level Eligibility Flag to turn off optimus Recommendations for below scenarios -\nIf you are running an ad group that is pitched for an upsell and you are awaiting approval and do not need Optimus to add or remove \nbudget from that ad group - Use Line level Eligibility flag to turn off recommendations for that specific ad group\nIf the version has a different objective and doesn’t have to be optimised based on RoAS use line level eligibility to remove all the ad \ngroups from that version as today we do not have version level eligibility. We are expecting this to change as we think about OBB for \nO&O\nIf only a line is part of any A/B test\n4. Training & Awareness –\nIf you want to know about the working of any of the feature or why Optimus has made a recommendation even after the explainability \nfeature, feel free to reach out to  or . Alternatively you can also refer the below confluence page which has @Kirthika.R @Komal.Shinde\ncurated a knowledge hub\nhttps://confluence.target.com/display/Optimus/Optimus\nIf there are requests from AMs on any recommendations please refer to the explainability feature or reach out to us for the same\n5. A/B Tests –\nAlways ensure the settings between A vs B lines is equal at all times. Which settings/ features needs to be the same will be \ncommunicated to the T&O spoc prior to the A/B test. Any deviations disqualifies the lines from being considered in the results \nmeasurement due to the nature of the methodology behind it.\nIf for any reason the pacing/delivery settings or other changes needs to be made please notify on the shared sheet and let the A/B test \nproduct spoc know.\nPlease take extra caution to ensure the sync was successful once the change is made in the campaign/line</p>",
+      "representation": "atlas_doc_format"
+    }
+  },
+  "restrictions": {
+    "read": {
+      "restrictions": [],
+      "restriction": {
+        "operation": "read",
+        "restrictions": {
+          "user": {
+            "results": [],
+            "start": 0,
+            "limit": 200,
+            "size": 0,
+            "_links": {
+              "base": "https://confluence.example.com",
+              "context": ""
+            }
+          },
+          "group": {
+            "results": [],
+            "start": 0,
+            "limit": 200,
+            "size": 0,
+            "_links": {
+              "base": "https://confluence.example.com",
+              "context": ""
+            }
+          }
+        }
+      }
+    },
+    "update": {
+      "restrictions": [],
+      "restriction": {
+        "operation": "update",
+        "restrictions": {
+          "user": {
+            "results": [],
+            "start": 0,
+            "limit": 200,
+            "size": 0,
+            "_links": {
+              "base": "https://confluence.example.com",
+              "context": ""
+            }
+          },
+          "group": {
+            "results": [],
+            "start": 0,
+            "limit": 200,
+            "size": 0,
+            "_links": {
+              "base": "https://confluence.example.com",
+              "context": ""
+            }
+          }
+        }
+      }
+    }
+  },
+  "history": {
+    "latest": true,
+    "createdBy": {
+      "type": "known",
+      "username": "system",
+      "userKey": "system",
+      "profilePicture": {
+        "path": "/s/optimus/profilepics/default/avatar.png",
+        "width": 48,
+        "height": 48,
+        "isDefault": true
+      },
+      "displayName": "System",
+      "_links": {
+        "self": "https://confluence.example.com/rest/api/user?username=system"
+      }
+    },
+    "createdDate": "2025-01-25T22:40:17.000Z",
+    "_links": {
+      "self": "https://confluence.example.com/rest/api/content/0fa63a6a2b8248f4a6f0d2ade05d5882/history"
+    }
+  },
+  "_links": {
+    "self": "https://confluence.example.com/rest/api/content/0fa63a6a2b8248f4a6f0d2ade05d5882",
+    "tinyui": "/x/optimus",
+    "editui": "/pages/resumedraft.action?draftId=0fa63a6a2b8248f4a6f0d2ade05d5882&draftShareId=null&",
+    "webui": "/display/OPTIMUS/Optimus+Best+Practices"
+  },
+  "metadata": {
+    "pdf_export": {
+      "original_filename": "Optimus Best Practices_0fa63a6a2b8248f4a6f0d2ade05d5882-191025-2240-1704.pdf",
+      "export_date": "2025-01-25T22:40:17.000Z",
+      "file_size": "3723",
+      "export_method": "manual_download",
+      "content_extracted": true,
+      "pages_in_pdf": 1,
+      "tables_detected": 0,
+      "visual_elements": {
+        "images": 0,
+        "diagrams": 0,
+        "charts": 0,
+        "total_pages": 1
+      },
+      "has_visuals": false
+    }
+  }
+}

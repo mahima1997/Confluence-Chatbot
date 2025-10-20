@@ -14,6 +14,7 @@ MahimuProject/
 │   └── README.md       # API data documentation
 ├── chatbot/             # Chatbot application
 │   ├── web_chatbot.py  # Flask web application
+│   ├── run.py          # Easy launcher script
 │   ├── templates/      # HTML templates
 │   └── requirements.txt # Python dependencies
 └── README.md           # This file
