@@ -1,15 +1,15 @@
 # Confluence-Chatbot
 
-Q. Why host your own LLM vs use OPen AI models.
-Q. FasiAPI for exposing model endpoints.
-Q. What is the load on API, user requests per month?
-Q. What is the confluence API limit(50-100 tokens at once)?
-Q. How did you take care of diagrams, tables in the confluence page?
-Q. Will the confluence API be hit everytime a user asks a question or there is fixed refresh rate?
-Q. What all prompt engineering was done?
-Q. How does the response othe llm model look like. Will it give Diagram and page links?
-Q. Which LLM model you chose and why?
-Q. Which embedding technique was used?
-Q. Which vector database was used?
-Q. How did you evaluate the performance of the model.
-Q. MLOps findings for the model.
+Q. Why host your own LLM vs use OPen AI models. <br>
+Q. FasiAPI for exposing model endpoints.<br>
+Q. What is the load on API, user requests per month?<br>
+Q. What is the confluence API limit(50-100 tokens at once)?<br>
+Q. How did you take care of diagrams, tables in the confluence page?<br>
+Q. Will the confluence API be hit everytime a user asks a question or there is fixed refresh rate?<br>
+Q. What all prompt engineering was done?<br>
+Q. How does the response othe llm model look like. Will it give Diagram and page links?<br>
+Q. Which LLM model you chose and why?<br>
+Q. Which embedding technique was used?<br>
+Q. Which vector database was used?<br>
+Q. How did you evaluate the performance of the model.<br>
+Q. MLOps findings for the model.<br>
