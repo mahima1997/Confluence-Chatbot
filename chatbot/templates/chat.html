@@ -121,6 +121,135 @@
             color: #6b7280;
         }
 
+        .best-practices {
+            margin-top: 20px;
+        }
+
+        .practice-item {
+            background: #f8fafc;
+            border: 1px solid #e5e7eb;
+            border-radius: 12px;
+            margin-bottom: 15px;
+            overflow: hidden;
+        }
+
+        .practice-header {
+            background: linear-gradient(135deg, #4f46e5 0%, #7c3aed 100%);
+            color: white;
+            padding: 15px 20px;
+            cursor: pointer;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            font-weight: 600;
+        }
+
+        .practice-header:hover {
+            opacity: 0.9;
+        }
+
+        .practice-number {
+            background: rgba(255, 255, 255, 0.2);
+            border-radius: 50%;
+            width: 30px;
+            height: 30px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 14px;
+            font-weight: bold;
+        }
+
+        .practice-content {
+            padding: 20px;
+            display: none;
+        }
+
+        .practice-content.show {
+            display: block;
+        }
+
+        .practice-description {
+            margin-bottom: 15px;
+            line-height: 1.6;
+        }
+
+        .practice-source {
+            background: #fef3c7;
+            padding: 8px 12px;
+            border-radius: 6px;
+            font-size: 14px;
+            color: #92400e;
+            display: inline-block;
+        }
+
+        .document-relationships {
+            margin-top: 20px;
+            padding: 20px;
+            background: #f9fafb;
+            border-radius: 12px;
+        }
+
+        .relationship-header {
+            font-weight: 600;
+            margin-bottom: 15px;
+            color: #4f46e5;
+        }
+
+        .document-node {
+            display: inline-block;
+            background: white;
+            border: 2px solid #e5e7eb;
+            border-radius: 8px;
+            padding: 10px 15px;
+            margin: 5px;
+            position: relative;
+            cursor: pointer;
+            transition: all 0.3s ease;
+        }
+
+        .document-node:hover {
+            border-color: #4f46e5;
+            transform: translateY(-2px);
+            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+        }
+
+        .document-node.primary {
+            border-color: #4f46e5;
+            background: #eef2ff;
+        }
+
+        .document-node.related {
+            border-color: #7c3aed;
+            background: #faf5ff;
+        }
+
+        .document-title {
+            font-weight: 600;
+            font-size: 14px;
+            margin-bottom: 5px;
+        }
+
+        .document-badges {
+            font-size: 12px;
+        }
+
+        .document-links {
+            background: #fee2e2;
+            color: #dc2626;
+            padding: 2px 6px;
+            border-radius: 4px;
+            font-size: 11px;
+        }
+
+        .similarity-badge {
+            background: #dbeafe;
+            color: #1e40af;
+            padding: 2px 6px;
+            border-radius: 4px;
+            font-size: 11px;
+        }
+
         .chat-input-area {
             padding: 20px 30px;
             background: white;
@@ -238,7 +367,7 @@
         const typingIndicator = document.getElementById('typingIndicator');
         const loading = document.getElementById('loading');
 
-        function addMessage(content, isUser = false, confidence = null, sources = null) {
+        function addMessage(content, isUser = false, confidence = null, sources = null, bestPractices = null, documentRelationships = null) {
             const messageDiv = document.createElement('div');
             messageDiv.className = `message ${isUser ? 'user' : 'bot'}`;
 
@@ -248,13 +377,53 @@
                 messageContent += `<div class="confidence-badge">Confidence: ${(confidence * 100).toFixed(1)}%</div>`;
             }
 
+            // Add best practices section if available
+            if (bestPractices && bestPractices.length > 0) {
+                messageContent += `<div class="best-practices">
+                    <h4>🎯 Best Practices:</h4>`;
+                bestPractices.forEach(practice => {
+                    messageContent += `
+                        <div class="practice-item">
+                            <div class="practice-header" onclick="togglePractice(this)">
+                                <div class="practice-number">${practice.number}</div>
+                                <div>${practice.title}</div>
+                            </div>
+                            <div class="practice-content">
+                                <div class="practice-description">${practice.description}</div>
+                                <div class="practice-source">📖 Source: ${practice.source}</div>
+                            </div>
+                        </div>`;
+                });
+                messageContent += `</div>`;
+            }
+
+            // Add document relationships section if available
+            if (documentRelationships && documentRelationships.nodes && documentRelationships.nodes.length > 0) {
+                messageContent += `<div class="document-relationships">
+                    <div class="relationship-header">🔗 Document Relationships</div>
+                    <div class="document-graph">`;
+                documentRelationships.nodes.forEach(node => {
+                    const badges = node.visual_elements.join(' ');
+                    const linkInfo = node.link_count > 0 ? `<span class="document-links">🔗 ${node.link_count}</span>` : '';
+                    const similarityInfo = `<span class="similarity-badge">📊 ${Math.round(node.similarity * 100)}%</span>`;
+                    messageContent += `
+                        <div class="document-node ${node.type}">
+                            <div class="document-title">${node.title}</div>
+                            <div class="document-badges">
+                                ${badges} ${linkInfo} ${similarityInfo}
+                            </div>
+                        </div>`;
+                });
+                messageContent += `</div></div>`;
+            }
+
             if (sources && sources.length > 0) {
                 messageContent += `<div class="sources">
                     <h4>📚 Sources:</h4>`;
                 sources.forEach((source, index) => {
                     let visualInfo = '';
-                    if (source.has_visuals) {
-                        visualInfo = ' <span style="color: #f59e0b;">📊 (Contains diagrams/images)</span>';
+                    if (source.visual_elements && source.visual_elements.length > 0) {
+                        visualInfo = ` <span style="color: #f59e0b;">${source.visual_elements.join(' ')}</span>`;
                     }
                     messageContent += `
                         <div class="source-item">
@@ -302,7 +471,14 @@
                 sendButton.disabled = false;
 
                 if (response.ok) {
-                    addMessage(result.answer, false, result.confidence, result.sources);
+                    addMessage(
+                        result.answer,
+                        false,
+                        result.confidence,
+                        result.sources,
+                        result.best_practices,
+                        result.document_relationships
+                    );
                 } else {
                     addMessage('❌ ' + (result.detail || 'Unknown error'), false);
                 }
@@ -325,6 +501,12 @@
 
         // Focus input on page load
         chatInput.focus();
+
+        // Add function to toggle practice content
+        window.togglePractice = function(header) {
+            const content = header.nextElementSibling;
+            content.classList.toggle('show');
+        };
     </script>
 </body>
 </html>

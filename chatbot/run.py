@@ -47,8 +47,8 @@ def main():
 
     # Launch the FastAPI application
     print("🌐 Starting FastAPI server...")
-    print("📍 Open http://localhost:5000 in your browser")
-    print("📖 API docs available at http://localhost:5000/docs")
+    print("📍 Open http://localhost:5001 in your browser")
+    print("📖 API docs available at http://localhost:5001/docs")
     print("❌ Press Ctrl+C to stop the server")
 
     try:
@@ -57,7 +57,7 @@ def main():
         uvicorn.run(
             "web_chatbot:app",
             host="0.0.0.0",
-            port=5000,
+            port=5001,
             reload=True,
             log_level="info"
         )
