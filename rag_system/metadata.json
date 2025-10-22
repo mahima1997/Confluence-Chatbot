@@ -1,0 +1,1960 @@
+{
+  "paragraphs": [
+    {
+      "text": "Roadmap - Optimus_0d4a5e89693946cf9cada0991de75641-191025-2240-1708",
+      "source_file": "Roadmap - Optimus_0d4a5e89693946cf9cada0991de75641-191025-2240-1708_extracted.json",
+      "payload_idx": 0,
+      "type": "paragraph"
+    },
+    {
+      "text": "active more a $Z revenue if client/partner",
+      "source_file": "Roadmap - Optimus_0d4a5e89693946cf9cada0991de75641-191025-2240-1708_extracted.json",
+      "payload_idx": 0,
+      "type": "paragraph"
+    },
+    {
+      "text": "Result language Result dollar amount could",
+      "source_file": "Roadmap - Optimus_0d4a5e89693946cf9cada0991de75641-191025-2240-1708_extracted.json",
+      "payload_idx": 0,
+      "type": "paragraph"
+    },
+    {
+      "text": "Optimus Bid price TBD RMS, XForce",
+      "source_file": "Roadmap - Optimus_0d4a5e89693946cf9cada0991de75641-191025-2240-1708_extracted.json",
+      "payload_idx": 0,
+      "type": "paragraph"
+    },
+    {
+      "text": "Optimus Best Practices_0fa63a6a2b8248f4a6f0d2ade05d5882-191025-2240-1704",
+      "source_file": "Optimus Best Practices_0fa63a6a2b8248f4a6f0d2ade05d5882-191025-2240-1704_extracted.json",
+      "payload_idx": 1,
+      "type": "paragraph"
+    },
+    {
+      "text": "Optimus Best Practices",
+      "source_file": "Optimus Best Practices_0fa63a6a2b8248f4a6f0d2ade05d5882-191025-2240-1704_extracted.json",
+      "payload_idx": 1,
+      "type": "paragraph"
+    },
+    {
+      "text": "1.Rejection Reason Best Practices -",
+      "source_file": "Optimus Best Practices_0fa63a6a2b8248f4a6f0d2ade05d5882-191025-2240-1704_extracted.json",
+      "payload_idx": 1,
+      "type": "paragraph"
+    },
+    {
+      "text": "a. Use manual optimization rejection reason on CMP only if you do not find a legitimate reason among the others that are listed. Around",
+      "source_file": "Optimus Best Practices_0fa63a6a2b8248f4a6f0d2ade05d5882-191025-2240-1704_extracted.json",
+      "payload_idx": 1,
+      "type": "paragraph"
+    },
+    {
+      "text": "1% rejections had incorrect options chosen when we did a deep dive. So please take extra caution in choosing the right one.",
+      "source_file": "Optimus Best Practices_0fa63a6a2b8248f4a6f0d2ade05d5882-191025-2240-1704_extracted.json",
+      "payload_idx": 1,
+      "type": "paragraph"
+    },
+    {
+      "text": "b. Use the text box along with “manual optimization” option to list the exact reason behind the rejection. We currently have 38% of",
+      "source_file": "Optimus Best Practices_0fa63a6a2b8248f4a6f0d2ade05d5882-191025-2240-1704_extracted.json",
+      "payload_idx": 1,
+      "type": "paragraph"
+    },
+    {
+      "text": "rejections with incomplete information in the text box.",
+      "source_file": "Optimus Best Practices_0fa63a6a2b8248f4a6f0d2ade05d5882-191025-2240-1704_extracted.json",
+      "payload_idx": 1,
+      "type": "paragraph"
+    },
+    {
+      "text": "2. Use Campaign Level Eligibility Flag to turn off optimus Recommendations for below scenarios -",
+      "source_file": "Optimus Best Practices_0fa63a6a2b8248f4a6f0d2ade05d5882-191025-2240-1704_extracted.json",
+      "payload_idx": 1,
+      "type": "paragraph"
+    },
+    {
+      "text": "a. If your campaign is going through an A/B test, and you do not need Optimus recommendations – Use Campaign Eligibility flag to turn off",
+      "source_file": "Optimus Best Practices_0fa63a6a2b8248f4a6f0d2ade05d5882-191025-2240-1704_extracted.json",
+      "payload_idx": 1,
+      "type": "paragraph"
+    },
+    {
+      "text": "b. If you are running campaign is pitched for an upsell and you are awaiting approval and do not need Optimus Recommendations - Use",
+      "source_file": "Optimus Best Practices_0fa63a6a2b8248f4a6f0d2ade05d5882-191025-2240-1704_extracted.json",
+      "payload_idx": 1,
+      "type": "paragraph"
+    },
+    {
+      "text": "Campaign Eligibility flag to turn off recommendations",
+      "source_file": "Optimus Best Practices_0fa63a6a2b8248f4a6f0d2ade05d5882-191025-2240-1704_extracted.json",
+      "payload_idx": 1,
+      "type": "paragraph"
+    },
+    {
+      "text": "c. If it’s a multi-vendor campaign that you do not need recommendations for",
+      "source_file": "Optimus Best Practices_0fa63a6a2b8248f4a6f0d2ade05d5882-191025-2240-1704_extracted.json",
+      "payload_idx": 1,
+      "type": "paragraph"
+    },
+    {
+      "text": "d. If there is specific instruction to optimise a campaign on any other metric that is not provided by Optimus",
+      "source_file": "Optimus Best Practices_0fa63a6a2b8248f4a6f0d2ade05d5882-191025-2240-1704_extracted.json",
+      "payload_idx": 1,
+      "type": "paragraph"
+    },
+    {
+      "text": "e. If there is a plan to move budget from the T.com campaign to off platforms",
+      "source_file": "Optimus Best Practices_0fa63a6a2b8248f4a6f0d2ade05d5882-191025-2240-1704_extracted.json",
+      "payload_idx": 1,
+      "type": "paragraph"
+    },
+    {
+      "text": "f. If media plan is revised – Turn if off until the changes are implemented",
+      "source_file": "Optimus Best Practices_0fa63a6a2b8248f4a6f0d2ade05d5882-191025-2240-1704_extracted.json",
+      "payload_idx": 1,
+      "type": "paragraph"
+    },
+    {
+      "text": "g. If new team members are onboarded and you want them to do manual optimization as a start",
+      "source_file": "Optimus Best Practices_0fa63a6a2b8248f4a6f0d2ade05d5882-191025-2240-1704_extracted.json",
+      "payload_idx": 1,
+      "type": "paragraph"
+    },
+    {
+      "text": "3. Use Line Level Eligibility Flag to turn off optimus Recommendations for below scenarios -",
+      "source_file": "Optimus Best Practices_0fa63a6a2b8248f4a6f0d2ade05d5882-191025-2240-1704_extracted.json",
+      "payload_idx": 1,
+      "type": "paragraph"
+    },
+    {
+      "text": "a. If you are running an ad group that is pitched for an upsell and you are awaiting approval and do not need Optimus to add or remove",
+      "source_file": "Optimus Best Practices_0fa63a6a2b8248f4a6f0d2ade05d5882-191025-2240-1704_extracted.json",
+      "payload_idx": 1,
+      "type": "paragraph"
+    },
+    {
+      "text": "budget from that ad group - Use Line level Eligibility flag to turn off recommendations for that specific ad group",
+      "source_file": "Optimus Best Practices_0fa63a6a2b8248f4a6f0d2ade05d5882-191025-2240-1704_extracted.json",
+      "payload_idx": 1,
+      "type": "paragraph"
+    },
+    {
+      "text": "b. If the version has a different objective and doesn’t have to be optimised based on RoAS use line level eligibility to remove all the ad",
+      "source_file": "Optimus Best Practices_0fa63a6a2b8248f4a6f0d2ade05d5882-191025-2240-1704_extracted.json",
+      "payload_idx": 1,
+      "type": "paragraph"
+    },
+    {
+      "text": "groups from that version as today we do not have version level eligibility. We are expecting this to change as we think about OBB for",
+      "source_file": "Optimus Best Practices_0fa63a6a2b8248f4a6f0d2ade05d5882-191025-2240-1704_extracted.json",
+      "payload_idx": 1,
+      "type": "paragraph"
+    },
+    {
+      "text": "c. If only a line is part of any A/B test",
+      "source_file": "Optimus Best Practices_0fa63a6a2b8248f4a6f0d2ade05d5882-191025-2240-1704_extracted.json",
+      "payload_idx": 1,
+      "type": "paragraph"
+    },
+    {
+      "text": "4. Training & Awareness –",
+      "source_file": "Optimus Best Practices_0fa63a6a2b8248f4a6f0d2ade05d5882-191025-2240-1704_extracted.json",
+      "payload_idx": 1,
+      "type": "paragraph"
+    },
+    {
+      "text": "a. If you want to know about the working of any of the feature or why Optimus has made a recommendation even after the explainability",
+      "source_file": "Optimus Best Practices_0fa63a6a2b8248f4a6f0d2ade05d5882-191025-2240-1704_extracted.json",
+      "payload_idx": 1,
+      "type": "paragraph"
+    },
+    {
+      "text": "feature, feel free to reach out to @Kirthika.R or @Komal.Shinde. Alternatively you can also refer the below confluence page which has",
+      "source_file": "Optimus Best Practices_0fa63a6a2b8248f4a6f0d2ade05d5882-191025-2240-1704_extracted.json",
+      "payload_idx": 1,
+      "type": "paragraph"
+    },
+    {
+      "text": "curated a knowledge hub",
+      "source_file": "Optimus Best Practices_0fa63a6a2b8248f4a6f0d2ade05d5882-191025-2240-1704_extracted.json",
+      "payload_idx": 1,
+      "type": "paragraph"
+    },
+    {
+      "text": "https://confluence.target.com/display/Optimus/Optimus",
+      "source_file": "Optimus Best Practices_0fa63a6a2b8248f4a6f0d2ade05d5882-191025-2240-1704_extracted.json",
+      "payload_idx": 1,
+      "type": "paragraph"
+    },
+    {
+      "text": "a. If there are requests from AMs on any recommendations please refer to the explainability feature or reach out to us for the same",
+      "source_file": "Optimus Best Practices_0fa63a6a2b8248f4a6f0d2ade05d5882-191025-2240-1704_extracted.json",
+      "payload_idx": 1,
+      "type": "paragraph"
+    },
+    {
+      "text": "a. Always ensure the settings between A vs B lines is equal at all times. Which settings/ features needs to be the same will be",
+      "source_file": "Optimus Best Practices_0fa63a6a2b8248f4a6f0d2ade05d5882-191025-2240-1704_extracted.json",
+      "payload_idx": 1,
+      "type": "paragraph"
+    },
+    {
+      "text": "communicated to the T&O spoc prior to the A/B test. Any deviations disqualifies the lines from being considered in the results",
+      "source_file": "Optimus Best Practices_0fa63a6a2b8248f4a6f0d2ade05d5882-191025-2240-1704_extracted.json",
+      "payload_idx": 1,
+      "type": "paragraph"
+    },
+    {
+      "text": "measurement due to the nature of the methodology behind it.",
+      "source_file": "Optimus Best Practices_0fa63a6a2b8248f4a6f0d2ade05d5882-191025-2240-1704_extracted.json",
+      "payload_idx": 1,
+      "type": "paragraph"
+    },
+    {
+      "text": "b. If for any reason the pacing/delivery settings or other changes needs to be made please notify on the shared sheet and let the A/B test",
+      "source_file": "Optimus Best Practices_0fa63a6a2b8248f4a6f0d2ade05d5882-191025-2240-1704_extracted.json",
+      "payload_idx": 1,
+      "type": "paragraph"
+    },
+    {
+      "text": "c. Please take extra caution to ensure the sync was successful once the change is made in the campaign/line",
+      "source_file": "Optimus Best Practices_0fa63a6a2b8248f4a6f0d2ade05d5882-191025-2240-1704_extracted.json",
+      "payload_idx": 1,
+      "type": "paragraph"
+    },
+    {
+      "text": "Optimus Resources_be22766d4e034e6887a914b7e48daa5a-191025-2239-1700",
+      "source_file": "Optimus Resources_be22766d4e034e6887a914b7e48daa5a-191025-2239-1700_extracted.json",
+      "payload_idx": 2,
+      "type": "paragraph"
+    },
+    {
+      "text": "Optimus Optimus Onboarding.docx",
+      "source_file": "Optimus Resources_be22766d4e034e6887a914b7e48daa5a-191025-2239-1700_extracted.json",
+      "payload_idx": 2,
+      "type": "paragraph"
+    },
+    {
+      "text": "Optimus Impact in FY'24_70029109679049d19945849c1664e085-191025-2240-1702",
+      "source_file": "Optimus Impact in FY'24_70029109679049d19945849c1664e085-191025-2240-1702_extracted.json",
+      "payload_idx": 3,
+      "type": "paragraph"
+    },
+    {
+      "text": "Optimus Impact in FY'24",
+      "source_file": "Optimus Impact in FY'24_70029109679049d19945849c1664e085-191025-2240-1702_extracted.json",
+      "payload_idx": 3,
+      "type": "paragraph"
+    },
+    {
+      "text": "Multi-Division -98% -83%",
+      "source_file": "Optimus Impact in FY'24_70029109679049d19945849c1664e085-191025-2240-1702_extracted.json",
+      "payload_idx": 3,
+      "type": "paragraph"
+    },
+    {
+      "text": "Entertainment -66% -46%",
+      "source_file": "Optimus Impact in FY'24_70029109679049d19945849c1664e085-191025-2240-1702_extracted.json",
+      "payload_idx": 3,
+      "type": "paragraph"
+    },
+    {
+      "text": "Optimus Recommendation Rejection_105ba7c854034b278806e34c248a0d88-191025-2240-1706",
+      "source_file": "Optimus Recommendation Rejection_105ba7c854034b278806e34c248a0d88-191025-2240-1706_extracted.json",
+      "payload_idx": 4,
+      "type": "paragraph"
+    },
+    {
+      "text": "Optimus Recommendation Rejection Reasons",
+      "source_file": "Optimus Recommendation Rejection_105ba7c854034b278806e34c248a0d88-191025-2240-1706_extracted.json",
+      "payload_idx": 4,
+      "type": "paragraph"
+    },
+    {
+      "text": "When you receive an Optimus Recommendation for your campaign, you review the recommendation and take a decision to Approve Changes or Reject",
+      "source_file": "Optimus Recommendation Rejection_105ba7c854034b278806e34c248a0d88-191025-2240-1706_extracted.json",
+      "payload_idx": 4,
+      "type": "paragraph"
+    },
+    {
+      "text": "Rejecting the recommendation requires you to select the correct rejection reason.[Refer to Rejection Reasons Table Below]",
+      "source_file": "Optimus Recommendation Rejection_105ba7c854034b278806e34c248a0d88-191025-2240-1706_extracted.json",
+      "payload_idx": 4,
+      "type": "paragraph"
+    },
+    {
+      "text": "Choosing correct Rejection Reasons helps product team to improve the Optimus model.",
+      "source_file": "Optimus Recommendation Rejection_105ba7c854034b278806e34c248a0d88-191025-2240-1706_extracted.json",
+      "payload_idx": 4,
+      "type": "paragraph"
+    },
+    {
+      "text": "could be tech glitch.",
+      "source_file": "Optimus Recommendation Rejection_105ba7c854034b278806e34c248a0d88-191025-2240-1706_extracted.json",
+      "payload_idx": 4,
+      "type": "paragraph"
+    },
+    {
+      "text": "than $10 valuable impact of",
+      "source_file": "Optimus Recommendation Rejection_105ba7c854034b278806e34c248a0d88-191025-2240-1706_extracted.json",
+      "payload_idx": 4,
+      "type": "paragraph"
+    },
+    {
+      "text": "Copy of Optimus 2025_736e298495384451b5c606dda3d3e3f3-191025-2239-1698",
+      "source_file": "Copy of Optimus 2025_736e298495384451b5c606dda3d3e3f3-191025-2239-1698_extracted.json",
+      "payload_idx": 5,
+      "type": "paragraph"
+    },
+    {
+      "text": "m i C g E n ( - o D o s T x a n iz e i r p . t o y a e v – a n t ) model in preflight for leverage. O H l s f t e o h c o p v r i o s l e t a i p i s m r w e s t d i i i c l i z – a l f f a o b n e M t p e d r io e t V i d r n n m e P e t s i l z p 1 i o v a r u e o - t r i r j C o c e e e n d c h t a m a . b n c H y o g r v e o Q e e n s 3 i d s c n e H M b m t d c e o e e o V a a m e l l i n m i P v n s p d e t . 1 l i a b r e c H e t r t - o o o e d i o r C u p n y n b g t c r i y e r h m e o e a t Q f q i H t z i P i n u 2 v a o P i e t r l a 2 i i e R s o s 0 w m t n 2 i r a e c e e 6 a n ig w q n c p a h u t r i o l o d t i l b r a s s d b e y g t s i e m t e M i l o e e h A n n v a G a e t s s l r s – C M P ( U I G T )",
+      "source_file": "Copy of Optimus 2025_736e298495384451b5c606dda3d3e3f3-191025-2239-1698_extracted.json",
+      "payload_idx": 5,
+      "type": "paragraph"
+    },
+    {
+      "text": "e o o t c n a a t l i l A e C p u U x r p u a p i i o d s t s f a r o t e i i e i l t r n o l i l n z g d g R c e e e p & d e l i o c v r a c e o o e s u c l m r s y o ( C C m t m o M o e m m n P n v e d s d e n e a i r d d g t s i a o m i n o t n i o e n o f t n ) n o p t – r s f i r c - o k D m e O R R r U K e i a a p p v o d d s t i s s i e m e e k it l u u l e u - s s R d s O r - e i i o n n n c D a t o t e Q e d r m a g p m 4 c r r m a i a k o e t p r io n i . t n i d W z a e w i t l d i l i o t b h a n e s f o p r e r r m a f M S S o e t e e e P i r c o l r o n f R v n m d i c s P 3 ( C e L n h o – o c a n w e s fi ) e d e s , A d o p t t",
+      "source_file": "Copy of Optimus 2025_736e298495384451b5c606dda3d3e3f3-191025-2239-1698_extracted.json",
+      "payload_idx": 5,
+      "type": "paragraph"
+    }
+  ],
+  "table_rows": [
+    {
+      "row_text": "Copy this page to your own Confluence space for use within your own Product\nTables below should incorporate tech-driven work, feature work, and discovery track efforts\nEach initiative should go in its own row within a table\nYour roadmap should consist of the next 3 years of work (through 2026). As you project further out, fewer initiatives and associated details will be\nlisted.\nYou may not have initiatives that fall into each of the 3 categories below, and that's ok. Only use the tables that apply to your Product area.\nWatch this template page so that you're alerted when we make updates to definitions, or as process evolves over the long-term",
+      "cells": [
+        "Copy this page to your own Confluence space for use within your own Product\nTables below should incorporate tech-driven work, feature work, and discovery track efforts\nEach initiative should go in its own row within a table\nYour roadmap should consist of the next 3 years of work (through 2026). As you project further out, fewer initiatives and associated details will be\nlisted.\nYou may not have initiatives that fall into each of the 3 categories below, and that's ok. Only use the tables that apply to your Product area.\nWatch this template page so that you're alerted when we make updates to definitions, or as process evolves over the long-term"
+      ],
+      "source_file": "Roadmap - Optimus_0d4a5e89693946cf9cada0991de75641-191025-2240-1708_extracted.json",
+      "payload_idx": 0,
+      "table_idx": 0,
+      "row_idx": 0,
+      "table_headers": [
+        "How To Use This Template"
+      ],
+      "header_text": "How To Use This Template",
+      "type": "table_row"
+    },
+    {
+      "row_text": "Term | Definition",
+      "cells": [
+        "Term",
+        "Definition"
+      ],
+      "source_file": "Roadmap - Optimus_0d4a5e89693946cf9cada0991de75641-191025-2240-1708_extracted.json",
+      "payload_idx": 0,
+      "table_idx": 1,
+      "row_idx": 0,
+      "table_headers": [
+        "Key Terms",
+        ""
+      ],
+      "header_text": "Key Terms | ",
+      "type": "table_row"
+    },
+    {
+      "row_text": "Directly\nMeasurable\nImpact | This is the KPI that product directly drives. It may not be a financial metric.",
+      "cells": [
+        "Directly\nMeasurable\nImpact",
+        "This is the KPI that product directly drives. It may not be a financial metric."
+      ],
+      "source_file": "Roadmap - Optimus_0d4a5e89693946cf9cada0991de75641-191025-2240-1708_extracted.json",
+      "payload_idx": 0,
+      "table_idx": 1,
+      "row_idx": 1,
+      "table_headers": [
+        "Key Terms",
+        ""
+      ],
+      "header_text": "Key Terms | ",
+      "type": "table_row"
+    },
+    {
+      "row_text": "Financial\nImpact to\nRevenue or\nCost Inputs | This is the Financial KPI input that product directly/indirectly drives and in most cases it will NOT be an output metric (such as\nrevenue). Financial KPI inputs include concepts such as ad traffic (clicks or impressions) , ad requests (aka ad traffic opportunities), ad\ntraffic sell-thru-rate (paid sold ad traffic / total ad requests), price (eCPM or eCPC), ad load per page view, bid density, etc. All of these\nconnect to the equation that governs our business: Ad Revenue = Ad Requests (x) Sell-Thru-Rate (x) effective Price Paid",
+      "cells": [
+        "Financial\nImpact to\nRevenue or\nCost Inputs",
+        "This is the Financial KPI input that product directly/indirectly drives and in most cases it will NOT be an output metric (such as\nrevenue). Financial KPI inputs include concepts such as ad traffic (clicks or impressions) , ad requests (aka ad traffic opportunities), ad\ntraffic sell-thru-rate (paid sold ad traffic / total ad requests), price (eCPM or eCPC), ad load per page view, bid density, etc. All of these\nconnect to the equation that governs our business: Ad Revenue = Ad Requests (x) Sell-Thru-Rate (x) effective Price Paid"
+      ],
+      "source_file": "Roadmap - Optimus_0d4a5e89693946cf9cada0991de75641-191025-2240-1708_extracted.json",
+      "payload_idx": 0,
+      "table_idx": 1,
+      "row_idx": 2,
+      "table_headers": [
+        "Key Terms",
+        ""
+      ],
+      "header_text": "Key Terms | ",
+      "type": "table_row"
+    },
+    {
+      "row_text": "Measurable 3-\nyear Financial\nOpportunity\nCost if Not\nExecuted | If we don’t do this, what are we forgoing? We can’t do everything, but we certainly need to understand tradeoffs.",
+      "cells": [
+        "Measurable 3-\nyear Financial\nOpportunity\nCost if Not\nExecuted",
+        "If we don’t do this, what are we forgoing? We can’t do everything, but we certainly need to understand tradeoffs."
+      ],
+      "source_file": "Roadmap - Optimus_0d4a5e89693946cf9cada0991de75641-191025-2240-1708_extracted.json",
+      "payload_idx": 0,
+      "table_idx": 1,
+      "row_idx": 3,
+      "table_headers": [
+        "Key Terms",
+        ""
+      ],
+      "header_text": "Key Terms | ",
+      "type": "table_row"
+    },
+    {
+      "row_text": "Ascending\norder; lower\nis more\nimportant;\nno ties | Which\nproduct\nteam will\nwork on this? | Initiative\nname as it\nappears in M\nonday.com | Half-year or\nQuarter | T-shirt\nsize\nestimate | Directly\nMeasurable\nImpact | Financial\nImpact\nto\nRevenue\nor Cost\nInputs | 3-yr\nFinancial\nOpportunity\nCost if Not\nExecuted | List dependent\nteams and\ninitiatives | Place an X in this\ncolumn if you've\nbeen struggling to\nget this effort\nprioritized. | Place an X in\nthis column if\nit doesn't have\ndependencies,\nbut is a top 1-\n3 priority for\nyour team | Place an X\nin this\ncolumn if the\ninitiative will\nrequire\nmajor\nchange\nmanagement\n. This could\ninclude team\nmember\nbehavior\nchanges,\nupskilling and\n/or intense\nclient/partner\ncomms\nbecause\nthey also are\nimpacted by\nchange. | Other factors\nthat may\nimpact\ndelivery | ",
+      "cells": [
+        "Ascending\norder; lower\nis more\nimportant;\nno ties",
+        "Which\nproduct\nteam will\nwork on this?",
+        "Initiative\nname as it\nappears in M\nonday.com",
+        "Half-year or\nQuarter",
+        "T-shirt\nsize\nestimate",
+        "Directly\nMeasurable\nImpact",
+        "Financial\nImpact\nto\nRevenue\nor Cost\nInputs",
+        "3-yr\nFinancial\nOpportunity\nCost if Not\nExecuted",
+        "List dependent\nteams and\ninitiatives",
+        "Place an X in this\ncolumn if you've\nbeen struggling to\nget this effort\nprioritized.",
+        "Place an X in\nthis column if\nit doesn't have\ndependencies,\nbut is a top 1-\n3 priority for\nyour team",
+        "Place an X\nin this\ncolumn if the\ninitiative will\nrequire\nmajor\nchange\nmanagement\n. This could\ninclude team\nmember\nbehavior\nchanges,\nupskilling and\n/or intense\nclient/partner\ncomms\nbecause\nthey also are\nimpacted by\nchange.",
+        "Other factors\nthat may\nimpact\ndelivery",
+        ""
+      ],
+      "source_file": "Roadmap - Optimus_0d4a5e89693946cf9cada0991de75641-191025-2240-1708_extracted.json",
+      "payload_idx": 0,
+      "table_idx": 2,
+      "row_idx": 0,
+      "table_headers": [
+        "Priority",
+        "Product",
+        "Initiative",
+        "Timeframe",
+        "Level\nof\nEffort",
+        "Business Value",
+        "",
+        "",
+        "Dependencies",
+        "Prioritization\nChallenge?",
+        "Top\nInitiative?",
+        "Change\nDriver?",
+        "Know\nDeliv\nRisks",
+        "n\nery"
+      ],
+      "header_text": "Priority | Product | Initiative | Timeframe | Level\nof\nEffort | Business Value |  |  | Dependencies | Prioritization\nChallenge? | Top\nInitiative? | Change\nDriver? | Know\nDeliv\nRisks | n\nery",
+      "type": "table_row"
+    },
+    {
+      "row_text": " |  |  |  |  | using Key\nResult language\nExamples: 1)\nKiosk: X% of\nclients with\nactive\ncampaigns used\nKiosk at least\nonce during the\ncampaign\nperiod.\n2) Clean Room:\nDouble number\nof tech\npartnerships by\nlaunching Habu. | using Key\nResult\nlanguage\nExamples: 1)\nKiosk: the\nmore a\nperson uses\nKiosk, the\nmore likely\nthey are to\nbuy another\ncampaign,\nincreasing\nsell-through\nrate (STR).\n2) Video:\nNew\nShoppable\nUnit ad\nformat on\nYouTube will\ndrive $Y in\nrevenue in\nFY2023 | quantifiable\ndollar amount\nExamples:\n1) RMS:\nprojected loss of\n$Z revenue if\nRMS launch is\nnot completed\n2) PbR:\nIncremental $X\nrevenue if Xandr\nlaunch is not\ncompleted |  |  |  |  |  | ",
+      "cells": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "using Key\nResult language\nExamples: 1)\nKiosk: X% of\nclients with\nactive\ncampaigns used\nKiosk at least\nonce during the\ncampaign\nperiod.\n2) Clean Room:\nDouble number\nof tech\npartnerships by\nlaunching Habu.",
+        "using Key\nResult\nlanguage\nExamples: 1)\nKiosk: the\nmore a\nperson uses\nKiosk, the\nmore likely\nthey are to\nbuy another\ncampaign,\nincreasing\nsell-through\nrate (STR).\n2) Video:\nNew\nShoppable\nUnit ad\nformat on\nYouTube will\ndrive $Y in\nrevenue in\nFY2023",
+        "quantifiable\ndollar amount\nExamples:\n1) RMS:\nprojected loss of\n$Z revenue if\nRMS launch is\nnot completed\n2) PbR:\nIncremental $X\nrevenue if Xandr\nlaunch is not\ncompleted",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "source_file": "Roadmap - Optimus_0d4a5e89693946cf9cada0991de75641-191025-2240-1708_extracted.json",
+      "payload_idx": 0,
+      "table_idx": 2,
+      "row_idx": 1,
+      "table_headers": [
+        "Priority",
+        "Product",
+        "Initiative",
+        "Timeframe",
+        "Level\nof\nEffort",
+        "Business Value",
+        "",
+        "",
+        "Dependencies",
+        "Prioritization\nChallenge?",
+        "Top\nInitiative?",
+        "Change\nDriver?",
+        "Know\nDeliv\nRisks",
+        "n\nery"
+      ],
+      "header_text": "Priority | Product | Initiative | Timeframe | Level\nof\nEffort | Business Value |  |  | Dependencies | Prioritization\nChallenge? | Top\nInitiative? | Change\nDriver? | Know\nDeliv\nRisks | n\nery",
+      "type": "table_row"
+    },
+    {
+      "row_text": "Ascending\norder;\nlower is\nmore\nimportant;\nno ties | Which\nproduct\nteam will\nwork on\nthis? | Initiative\nname as it\nappears in\nMonday.com | Half-year or\nQuarter | T-shirt\nsize\nestimate | Directly\nMeasurable\nImpact | Financial\nImpact\nto\nRevenue\nor Cost\nInputs | 3-yr\nFinancial\nOpportunity\nCost if Not\nExecuted | List dependent\nteams and\ninitiatives | Place an X in this\ncolumn if you've\nbeen struggling\nto get this effort\nprioritized. | Place an X in\nthis column if\nit doesn't\nhave\ndependencies\n, but is a top\n1-3 priority\nfor your team | Place an X\nin this\ncolumn if\nthe initiative\nwill require\nmajor\nchange\nmanagemen\nt. This\ncould\ninclude\nteam\nmember\nbehavior\nchanges,\nupskilling\nand/or\nintense\nclient\n/partner\ncomms\nbecause\nthey also\nare\nimpacted\nby change. | ",
+      "cells": [
+        "Ascending\norder;\nlower is\nmore\nimportant;\nno ties",
+        "Which\nproduct\nteam will\nwork on\nthis?",
+        "Initiative\nname as it\nappears in\nMonday.com",
+        "Half-year or\nQuarter",
+        "T-shirt\nsize\nestimate",
+        "Directly\nMeasurable\nImpact",
+        "Financial\nImpact\nto\nRevenue\nor Cost\nInputs",
+        "3-yr\nFinancial\nOpportunity\nCost if Not\nExecuted",
+        "List dependent\nteams and\ninitiatives",
+        "Place an X in this\ncolumn if you've\nbeen struggling\nto get this effort\nprioritized.",
+        "Place an X in\nthis column if\nit doesn't\nhave\ndependencies\n, but is a top\n1-3 priority\nfor your team",
+        "Place an X\nin this\ncolumn if\nthe initiative\nwill require\nmajor\nchange\nmanagemen\nt. This\ncould\ninclude\nteam\nmember\nbehavior\nchanges,\nupskilling\nand/or\nintense\nclient\n/partner\ncomms\nbecause\nthey also\nare\nimpacted\nby change.",
+        ""
+      ],
+      "source_file": "Roadmap - Optimus_0d4a5e89693946cf9cada0991de75641-191025-2240-1708_extracted.json",
+      "payload_idx": 0,
+      "table_idx": 3,
+      "row_idx": 0,
+      "table_headers": [
+        "Priority",
+        "Product",
+        "Initiative",
+        "Timeframe",
+        "Level\nof\nEffort",
+        "Business Value",
+        "",
+        "",
+        "Dependencies",
+        "Prioritization\nChallenge?",
+        "Top\nInitiative?",
+        "Ch\nDri",
+        "ange\nver?"
+      ],
+      "header_text": "Priority | Product | Initiative | Timeframe | Level\nof\nEffort | Business Value |  |  | Dependencies | Prioritization\nChallenge? | Top\nInitiative? | Ch\nDri | ange\nver?",
+      "type": "table_row"
+    },
+    {
+      "row_text": " |  |  |  |  | using Key\nResult language | using Key\nResult\nlanguage | quantifiable\ndollar amount |  |  |  |  | ",
+      "cells": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "using Key\nResult language",
+        "using Key\nResult\nlanguage",
+        "quantifiable\ndollar amount",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "source_file": "Roadmap - Optimus_0d4a5e89693946cf9cada0991de75641-191025-2240-1708_extracted.json",
+      "payload_idx": 0,
+      "table_idx": 3,
+      "row_idx": 1,
+      "table_headers": [
+        "Priority",
+        "Product",
+        "Initiative",
+        "Timeframe",
+        "Level\nof\nEffort",
+        "Business Value",
+        "",
+        "",
+        "Dependencies",
+        "Prioritization\nChallenge?",
+        "Top\nInitiative?",
+        "Ch\nDri",
+        "ange\nver?"
+      ],
+      "header_text": "Priority | Product | Initiative | Timeframe | Level\nof\nEffort | Business Value |  |  | Dependencies | Prioritization\nChallenge? | Top\nInitiative? | Ch\nDri | ange\nver?",
+      "type": "table_row"
+    },
+    {
+      "row_text": " |  |  |  |  |  |  |  |  |  |  |  | ",
+      "cells": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "source_file": "Roadmap - Optimus_0d4a5e89693946cf9cada0991de75641-191025-2240-1708_extracted.json",
+      "payload_idx": 0,
+      "table_idx": 3,
+      "row_idx": 2,
+      "table_headers": [
+        "Priority",
+        "Product",
+        "Initiative",
+        "Timeframe",
+        "Level\nof\nEffort",
+        "Business Value",
+        "",
+        "",
+        "Dependencies",
+        "Prioritization\nChallenge?",
+        "Top\nInitiative?",
+        "Ch\nDri",
+        "ange\nver?"
+      ],
+      "header_text": "Priority | Product | Initiative | Timeframe | Level\nof\nEffort | Business Value |  |  | Dependencies | Prioritization\nChallenge? | Top\nInitiative? | Ch\nDri | ange\nver?",
+      "type": "table_row"
+    },
+    {
+      "row_text": "Ascending\norder;\nlower is\nmore\nimportant;\nno ties | Which\nproduct\nteam will\nwork on\nthis? | Initiative\nname as it\nappears in\nMonday.com | Half-year or\nQuarter | T-shirt\nsize\nestimate | Directly\nMeasurable\nImpact | Financial\nImpact\nto\nRevenue\nor Cost\nInputs | 3-yr\nFinancial\nOpportunity\nCost if Not\nExecuted | List dependent\nteams and\ninitiatives | Place an X in this\ncolumn if you've\nbeen struggling\nto get this effort\nprioritized. | Place an X in\nthis column if\nit doesn't\nhave\ndependencies\n, but is a top\n1-3 priority\nfor your team | Place an X\nin this\ncolumn if\nthe initiative\nwill require\nmajor\nchange\nmanagemen\nt. This\ncould\ninclude\nteam\nmember\nbehavior\nchanges,\nupskilling\nand/or\nintense\nclient\n/partner\ncomms\nbecause\nthey also\nare\nimpacted\nby change. | ",
+      "cells": [
+        "Ascending\norder;\nlower is\nmore\nimportant;\nno ties",
+        "Which\nproduct\nteam will\nwork on\nthis?",
+        "Initiative\nname as it\nappears in\nMonday.com",
+        "Half-year or\nQuarter",
+        "T-shirt\nsize\nestimate",
+        "Directly\nMeasurable\nImpact",
+        "Financial\nImpact\nto\nRevenue\nor Cost\nInputs",
+        "3-yr\nFinancial\nOpportunity\nCost if Not\nExecuted",
+        "List dependent\nteams and\ninitiatives",
+        "Place an X in this\ncolumn if you've\nbeen struggling\nto get this effort\nprioritized.",
+        "Place an X in\nthis column if\nit doesn't\nhave\ndependencies\n, but is a top\n1-3 priority\nfor your team",
+        "Place an X\nin this\ncolumn if\nthe initiative\nwill require\nmajor\nchange\nmanagemen\nt. This\ncould\ninclude\nteam\nmember\nbehavior\nchanges,\nupskilling\nand/or\nintense\nclient\n/partner\ncomms\nbecause\nthey also\nare\nimpacted\nby change.",
+        ""
+      ],
+      "source_file": "Roadmap - Optimus_0d4a5e89693946cf9cada0991de75641-191025-2240-1708_extracted.json",
+      "payload_idx": 0,
+      "table_idx": 4,
+      "row_idx": 0,
+      "table_headers": [
+        "Priority",
+        "Product",
+        "Initiative",
+        "Timeframe",
+        "Level\nof\nEffort",
+        "Business Value",
+        "",
+        "",
+        "Dependencies",
+        "Prioritization\nChallenge?",
+        "Top\nInitiative?",
+        "Ch\nDri",
+        "ange\nver?"
+      ],
+      "header_text": "Priority | Product | Initiative | Timeframe | Level\nof\nEffort | Business Value |  |  | Dependencies | Prioritization\nChallenge? | Top\nInitiative? | Ch\nDri | ange\nver?",
+      "type": "table_row"
+    },
+    {
+      "row_text": " |  |  |  |  | using Key\nResult language | using Key\nResult\nlanguage | quantifiable\ndollar amount |  |  |  |  | ",
+      "cells": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "using Key\nResult language",
+        "using Key\nResult\nlanguage",
+        "quantifiable\ndollar amount",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "source_file": "Roadmap - Optimus_0d4a5e89693946cf9cada0991de75641-191025-2240-1708_extracted.json",
+      "payload_idx": 0,
+      "table_idx": 4,
+      "row_idx": 1,
+      "table_headers": [
+        "Priority",
+        "Product",
+        "Initiative",
+        "Timeframe",
+        "Level\nof\nEffort",
+        "Business Value",
+        "",
+        "",
+        "Dependencies",
+        "Prioritization\nChallenge?",
+        "Top\nInitiative?",
+        "Ch\nDri",
+        "ange\nver?"
+      ],
+      "header_text": "Priority | Product | Initiative | Timeframe | Level\nof\nEffort | Business Value |  |  | Dependencies | Prioritization\nChallenge? | Top\nInitiative? | Ch\nDri | ange\nver?",
+      "type": "table_row"
+    },
+    {
+      "row_text": " |  |  |  |  |  |  |  |  |  |  |  | ",
+      "cells": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "source_file": "Roadmap - Optimus_0d4a5e89693946cf9cada0991de75641-191025-2240-1708_extracted.json",
+      "payload_idx": 0,
+      "table_idx": 4,
+      "row_idx": 2,
+      "table_headers": [
+        "Priority",
+        "Product",
+        "Initiative",
+        "Timeframe",
+        "Level\nof\nEffort",
+        "Business Value",
+        "",
+        "",
+        "Dependencies",
+        "Prioritization\nChallenge?",
+        "Top\nInitiative?",
+        "Ch\nDri",
+        "ange\nver?"
+      ],
+      "header_text": "Priority | Product | Initiative | Timeframe | Level\nof\nEffort | Business Value |  |  | Dependencies | Prioritization\nChallenge? | Top\nInitiative? | Ch\nDri | ange\nver?",
+      "type": "table_row"
+    },
+    {
+      "row_text": "1 | Optimus | In-flight\nSocial\n(Pinterest) | Q3-2023 | Large | ~$200Mn in Incremental Sales in 2023\n4,167 hrs savings annually through Automation |  |  | MDF - \"Audience\nPool Size\" for\nPinterest\nCMP - UI\nChanges to intake\nPinterest\nrecommendations\nXForce - Ability to\nimplement\nPinterest updates\n/recommendations | X | X | X | ",
+      "cells": [
+        "1",
+        "Optimus",
+        "In-flight\nSocial\n(Pinterest)",
+        "Q3-2023",
+        "Large",
+        "~$200Mn in Incremental Sales in 2023\n4,167 hrs savings annually through Automation",
+        "",
+        "",
+        "MDF - \"Audience\nPool Size\" for\nPinterest\nCMP - UI\nChanges to intake\nPinterest\nrecommendations\nXForce - Ability to\nimplement\nPinterest updates\n/recommendations",
+        "X",
+        "X",
+        "X",
+        ""
+      ],
+      "source_file": "Roadmap - Optimus_0d4a5e89693946cf9cada0991de75641-191025-2240-1708_extracted.json",
+      "payload_idx": 0,
+      "table_idx": 4,
+      "row_idx": 3,
+      "table_headers": [
+        "Priority",
+        "Product",
+        "Initiative",
+        "Timeframe",
+        "Level\nof\nEffort",
+        "Business Value",
+        "",
+        "",
+        "Dependencies",
+        "Prioritization\nChallenge?",
+        "Top\nInitiative?",
+        "Ch\nDri",
+        "ange\nver?"
+      ],
+      "header_text": "Priority | Product | Initiative | Timeframe | Level\nof\nEffort | Business Value |  |  | Dependencies | Prioritization\nChallenge? | Top\nInitiative? | Ch\nDri | ange\nver?",
+      "type": "table_row"
+    },
+    {
+      "row_text": "2 | Optimus | Cross-\nplatform\nOptimization | Q3-2023 | Medium | ~$30 Mn Additional revenue from T.com + BMP\n$5mn Additional margins (extrapolated from Q4) | CMP - UI\nChanges to intake\ncross-platform\noptimization\nrecommendations\nXFORCE - Ability\nto implement\nupdates\n/recommendations\nacross channe | X |  | X",
+      "cells": [
+        "2",
+        "Optimus",
+        "Cross-\nplatform\nOptimization",
+        "Q3-2023",
+        "Medium",
+        "~$30 Mn Additional revenue from T.com + BMP\n$5mn Additional margins (extrapolated from Q4)",
+        "CMP - UI\nChanges to intake\ncross-platform\noptimization\nrecommendations\nXFORCE - Ability\nto implement\nupdates\n/recommendations\nacross channe",
+        "X",
+        "",
+        "X"
+      ],
+      "source_file": "Roadmap - Optimus_0d4a5e89693946cf9cada0991de75641-191025-2240-1708_extracted.json",
+      "payload_idx": 0,
+      "table_idx": 5,
+      "row_idx": 0,
+      "table_headers": [
+        "5",
+        "Optimus",
+        "Max-Bid\nOptimization\n(BMP)",
+        "Q2-2023",
+        "Large",
+        "2052 hrs savings annually through automation.\n$10- $12 Mn in Margin Increase",
+        "MDF - Providing n\necessary TTD\ninputs (eg:\nInventory\nContracts) at\nnecessary\ncadence to\nsynthesize bid\nrecommendations\nat scale\nXForce - Support\nwith Bid Changes\nin Bulk (Auto\napproval)\nCMP - UI\nChanges to intake\nchanges & modify\nvalues across\nVariables",
+        "X",
+        "",
+        "X"
+      ],
+      "header_text": "5 | Optimus | Max-Bid\nOptimization\n(BMP) | Q2-2023 | Large | 2052 hrs savings annually through automation.\n$10- $12 Mn in Margin Increase | MDF - Providing n\necessary TTD\ninputs (eg:\nInventory\nContracts) at\nnecessary\ncadence to\nsynthesize bid\nrecommendations\nat scale\nXForce - Support\nwith Bid Changes\nin Bulk (Auto\napproval)\nCMP - UI\nChanges to intake\nchanges & modify\nvalues across\nVariables | X |  | X",
+      "type": "table_row"
+    },
+    {
+      "row_text": "3 | Optimus | Optimization\nKPI (iROAS) | H1-2024 | Large | TBD |  | X |  | X",
+      "cells": [
+        "3",
+        "Optimus",
+        "Optimization\nKPI (iROAS)",
+        "H1-2024",
+        "Large",
+        "TBD",
+        "",
+        "X",
+        "",
+        "X"
+      ],
+      "source_file": "Roadmap - Optimus_0d4a5e89693946cf9cada0991de75641-191025-2240-1708_extracted.json",
+      "payload_idx": 0,
+      "table_idx": 5,
+      "row_idx": 1,
+      "table_headers": [
+        "5",
+        "Optimus",
+        "Max-Bid\nOptimization\n(BMP)",
+        "Q2-2023",
+        "Large",
+        "2052 hrs savings annually through automation.\n$10- $12 Mn in Margin Increase",
+        "MDF - Providing n\necessary TTD\ninputs (eg:\nInventory\nContracts) at\nnecessary\ncadence to\nsynthesize bid\nrecommendations\nat scale\nXForce - Support\nwith Bid Changes\nin Bulk (Auto\napproval)\nCMP - UI\nChanges to intake\nchanges & modify\nvalues across\nVariables",
+        "X",
+        "",
+        "X"
+      ],
+      "header_text": "5 | Optimus | Max-Bid\nOptimization\n(BMP) | Q2-2023 | Large | 2052 hrs savings annually through automation.\n$10- $12 Mn in Margin Increase | MDF - Providing n\necessary TTD\ninputs (eg:\nInventory\nContracts) at\nnecessary\ncadence to\nsynthesize bid\nrecommendations\nat scale\nXForce - Support\nwith Bid Changes\nin Bulk (Auto\napproval)\nCMP - UI\nChanges to intake\nchanges & modify\nvalues across\nVariables | X |  | X",
+      "type": "table_row"
+    },
+    {
+      "row_text": "4 | Optimus | Upselling | Q2-2023 | Medium | $27 Mn Additional revenue from upselling process\n(delivered ~3 Mn via Manual Upselling in Q1-2023) | T&O - Feedback\non upselling\nrecommendations\nand additional\nbusiness constrain\nts |  | X | X",
+      "cells": [
+        "4",
+        "Optimus",
+        "Upselling",
+        "Q2-2023",
+        "Medium",
+        "$27 Mn Additional revenue from upselling process\n(delivered ~3 Mn via Manual Upselling in Q1-2023)",
+        "T&O - Feedback\non upselling\nrecommendations\nand additional\nbusiness constrain\nts",
+        "",
+        "X",
+        "X"
+      ],
+      "source_file": "Roadmap - Optimus_0d4a5e89693946cf9cada0991de75641-191025-2240-1708_extracted.json",
+      "payload_idx": 0,
+      "table_idx": 5,
+      "row_idx": 2,
+      "table_headers": [
+        "5",
+        "Optimus",
+        "Max-Bid\nOptimization\n(BMP)",
+        "Q2-2023",
+        "Large",
+        "2052 hrs savings annually through automation.\n$10- $12 Mn in Margin Increase",
+        "MDF - Providing n\necessary TTD\ninputs (eg:\nInventory\nContracts) at\nnecessary\ncadence to\nsynthesize bid\nrecommendations\nat scale\nXForce - Support\nwith Bid Changes\nin Bulk (Auto\napproval)\nCMP - UI\nChanges to intake\nchanges & modify\nvalues across\nVariables",
+        "X",
+        "",
+        "X"
+      ],
+      "header_text": "5 | Optimus | Max-Bid\nOptimization\n(BMP) | Q2-2023 | Large | 2052 hrs savings annually through automation.\n$10- $12 Mn in Margin Increase | MDF - Providing n\necessary TTD\ninputs (eg:\nInventory\nContracts) at\nnecessary\ncadence to\nsynthesize bid\nrecommendations\nat scale\nXForce - Support\nwith Bid Changes\nin Bulk (Auto\napproval)\nCMP - UI\nChanges to intake\nchanges & modify\nvalues across\nVariables | X |  | X",
+      "type": "table_row"
+    },
+    {
+      "row_text": " | Optimus | Creative\nOptimization | H1-2024 | Large | TBD | CMP, XForce |  |  | ",
+      "cells": [
+        "",
+        "Optimus",
+        "Creative\nOptimization",
+        "H1-2024",
+        "Large",
+        "TBD",
+        "CMP, XForce",
+        "",
+        "",
+        ""
+      ],
+      "source_file": "Roadmap - Optimus_0d4a5e89693946cf9cada0991de75641-191025-2240-1708_extracted.json",
+      "payload_idx": 0,
+      "table_idx": 5,
+      "row_idx": 3,
+      "table_headers": [
+        "5",
+        "Optimus",
+        "Max-Bid\nOptimization\n(BMP)",
+        "Q2-2023",
+        "Large",
+        "2052 hrs savings annually through automation.\n$10- $12 Mn in Margin Increase",
+        "MDF - Providing n\necessary TTD\ninputs (eg:\nInventory\nContracts) at\nnecessary\ncadence to\nsynthesize bid\nrecommendations\nat scale\nXForce - Support\nwith Bid Changes\nin Bulk (Auto\napproval)\nCMP - UI\nChanges to intake\nchanges & modify\nvalues across\nVariables",
+        "X",
+        "",
+        "X"
+      ],
+      "header_text": "5 | Optimus | Max-Bid\nOptimization\n(BMP) | Q2-2023 | Large | 2052 hrs savings annually through automation.\n$10- $12 Mn in Margin Increase | MDF - Providing n\necessary TTD\ninputs (eg:\nInventory\nContracts) at\nnecessary\ncadence to\nsynthesize bid\nrecommendations\nat scale\nXForce - Support\nwith Bid Changes\nin Bulk (Auto\napproval)\nCMP - UI\nChanges to intake\nchanges & modify\nvalues across\nVariables | X |  | X",
+      "type": "table_row"
+    },
+    {
+      "row_text": " | Optimus | In-flight\nAudience\nSelection | Q4-2023 | Large |  | CAP |  |  | ",
+      "cells": [
+        "",
+        "Optimus",
+        "In-flight\nAudience\nSelection",
+        "Q4-2023",
+        "Large",
+        "",
+        "CAP",
+        "",
+        "",
+        ""
+      ],
+      "source_file": "Roadmap - Optimus_0d4a5e89693946cf9cada0991de75641-191025-2240-1708_extracted.json",
+      "payload_idx": 0,
+      "table_idx": 5,
+      "row_idx": 4,
+      "table_headers": [
+        "5",
+        "Optimus",
+        "Max-Bid\nOptimization\n(BMP)",
+        "Q2-2023",
+        "Large",
+        "2052 hrs savings annually through automation.\n$10- $12 Mn in Margin Increase",
+        "MDF - Providing n\necessary TTD\ninputs (eg:\nInventory\nContracts) at\nnecessary\ncadence to\nsynthesize bid\nrecommendations\nat scale\nXForce - Support\nwith Bid Changes\nin Bulk (Auto\napproval)\nCMP - UI\nChanges to intake\nchanges & modify\nvalues across\nVariables",
+        "X",
+        "",
+        "X"
+      ],
+      "header_text": "5 | Optimus | Max-Bid\nOptimization\n(BMP) | Q2-2023 | Large | 2052 hrs savings annually through automation.\n$10- $12 Mn in Margin Increase | MDF - Providing n\necessary TTD\ninputs (eg:\nInventory\nContracts) at\nnecessary\ncadence to\nsynthesize bid\nrecommendations\nat scale\nXForce - Support\nwith Bid Changes\nin Bulk (Auto\napproval)\nCMP - UI\nChanges to intake\nchanges & modify\nvalues across\nVariables | X |  | X",
+      "type": "table_row"
+    },
+    {
+      "row_text": " | Optimus | Inventory\nManagement | H2-2024 | Medium |  |  |  |  | ",
+      "cells": [
+        "",
+        "Optimus",
+        "Inventory\nManagement",
+        "H2-2024",
+        "Medium",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "source_file": "Roadmap - Optimus_0d4a5e89693946cf9cada0991de75641-191025-2240-1708_extracted.json",
+      "payload_idx": 0,
+      "table_idx": 5,
+      "row_idx": 5,
+      "table_headers": [
+        "5",
+        "Optimus",
+        "Max-Bid\nOptimization\n(BMP)",
+        "Q2-2023",
+        "Large",
+        "2052 hrs savings annually through automation.\n$10- $12 Mn in Margin Increase",
+        "MDF - Providing n\necessary TTD\ninputs (eg:\nInventory\nContracts) at\nnecessary\ncadence to\nsynthesize bid\nrecommendations\nat scale\nXForce - Support\nwith Bid Changes\nin Bulk (Auto\napproval)\nCMP - UI\nChanges to intake\nchanges & modify\nvalues across\nVariables",
+        "X",
+        "",
+        "X"
+      ],
+      "header_text": "5 | Optimus | Max-Bid\nOptimization\n(BMP) | Q2-2023 | Large | 2052 hrs savings annually through automation.\n$10- $12 Mn in Margin Increase | MDF - Providing n\necessary TTD\ninputs (eg:\nInventory\nContracts) at\nnecessary\ncadence to\nsynthesize bid\nrecommendations\nat scale\nXForce - Support\nwith Bid Changes\nin Bulk (Auto\napproval)\nCMP - UI\nChanges to intake\nchanges & modify\nvalues across\nVariables | X |  | X",
+      "type": "table_row"
+    },
+    {
+      "row_text": " | Optimus | Bid price\nOptimization\n(TPA) |  |  | TBD | RMS, XForce |  |  | ",
+      "cells": [
+        "",
+        "Optimus",
+        "Bid price\nOptimization\n(TPA)",
+        "",
+        "",
+        "TBD",
+        "RMS, XForce",
+        "",
+        "",
+        ""
+      ],
+      "source_file": "Roadmap - Optimus_0d4a5e89693946cf9cada0991de75641-191025-2240-1708_extracted.json",
+      "payload_idx": 0,
+      "table_idx": 5,
+      "row_idx": 6,
+      "table_headers": [
+        "5",
+        "Optimus",
+        "Max-Bid\nOptimization\n(BMP)",
+        "Q2-2023",
+        "Large",
+        "2052 hrs savings annually through automation.\n$10- $12 Mn in Margin Increase",
+        "MDF - Providing n\necessary TTD\ninputs (eg:\nInventory\nContracts) at\nnecessary\ncadence to\nsynthesize bid\nrecommendations\nat scale\nXForce - Support\nwith Bid Changes\nin Bulk (Auto\napproval)\nCMP - UI\nChanges to intake\nchanges & modify\nvalues across\nVariables",
+        "X",
+        "",
+        "X"
+      ],
+      "header_text": "5 | Optimus | Max-Bid\nOptimization\n(BMP) | Q2-2023 | Large | 2052 hrs savings annually through automation.\n$10- $12 Mn in Margin Increase | MDF - Providing n\necessary TTD\ninputs (eg:\nInventory\nContracts) at\nnecessary\ncadence to\nsynthesize bid\nrecommendations\nat scale\nXForce - Support\nwith Bid Changes\nin Bulk (Auto\napproval)\nCMP - UI\nChanges to intake\nchanges & modify\nvalues across\nVariables | X |  | X",
+      "type": "table_row"
+    },
+    {
+      "row_text": "Optimus\nOnboarding | Optimus Onboarding.docx",
+      "cells": [
+        "Optimus\nOnboarding",
+        "Optimus Onboarding.docx"
+      ],
+      "source_file": "Optimus Resources_be22766d4e034e6887a914b7e48daa5a-191025-2239-1700_extracted.json",
+      "payload_idx": 2,
+      "table_idx": 0,
+      "row_idx": 0,
+      "table_headers": [
+        "Team",
+        "Abhishek Mishra\nPreetham Gittagandla\nSasidhar Myneni\nSomesh Jaishwal\nTushara Nivarthi\nSuba Palani"
+      ],
+      "header_text": "Team | Abhishek Mishra\nPreetham Gittagandla\nSasidhar Myneni\nSomesh Jaishwal\nTushara Nivarthi\nSuba Palani",
+      "type": "table_row"
+    },
+    {
+      "row_text": "Optimus\nArchitecture | Optimus In-Flight Campaign Optimisation Vertex-AI POC",
+      "cells": [
+        "Optimus\nArchitecture",
+        "Optimus In-Flight Campaign Optimisation Vertex-AI POC"
+      ],
+      "source_file": "Optimus Resources_be22766d4e034e6887a914b7e48daa5a-191025-2239-1700_extracted.json",
+      "payload_idx": 2,
+      "table_idx": 0,
+      "row_idx": 1,
+      "table_headers": [
+        "Team",
+        "Abhishek Mishra\nPreetham Gittagandla\nSasidhar Myneni\nSomesh Jaishwal\nTushara Nivarthi\nSuba Palani"
+      ],
+      "header_text": "Team | Abhishek Mishra\nPreetham Gittagandla\nSasidhar Myneni\nSomesh Jaishwal\nTushara Nivarthi\nSuba Palani",
+      "type": "table_row"
+    },
+    {
+      "row_text": "Dashboards | OKR Dashboard: https://greenfield.target.com/dashboard/29243/0?$timePeriod$calendar_type=Fiscal&type=relative&interval=All%\n20Time",
+      "cells": [
+        "Dashboards",
+        "OKR Dashboard: https://greenfield.target.com/dashboard/29243/0?$timePeriod$calendar_type=Fiscal&type=relative&interval=All%\n20Time"
+      ],
+      "source_file": "Optimus Resources_be22766d4e034e6887a914b7e48daa5a-191025-2239-1700_extracted.json",
+      "payload_idx": 2,
+      "table_idx": 0,
+      "row_idx": 2,
+      "table_headers": [
+        "Team",
+        "Abhishek Mishra\nPreetham Gittagandla\nSasidhar Myneni\nSomesh Jaishwal\nTushara Nivarthi\nSuba Palani"
+      ],
+      "header_text": "Team | Abhishek Mishra\nPreetham Gittagandla\nSasidhar Myneni\nSomesh Jaishwal\nTushara Nivarthi\nSuba Palani",
+      "type": "table_row"
+    },
+    {
+      "row_text": "Codebase | Workflow GIT\nOptimizer and https://git.target.com/Roundel-Optimus-Platform/inflight-optimization-vxai\nStrategizer\nUpsell https://git.target.com/Roundel-Optimus-Platform/Upsell\nInventory\nOptimization\nOptimization Lift https://git.target.com/Roundel-Optimus-Platform/optimization_lift\nHolistic Optimization https://git.target.com/Roundel-Optimus-Platform/holistic_optimization\nData discovery notebooks: https://git.target.com/Roundel-Optimus-Platform/holistic_optimization/tree/main\n/notebooks\nHolistic Optimization Simulation Data Generation: https://git.target.com/Roundel-Optimus-Platform/inflight-\noptimization-vxai/tree/holistic_opt_budget_simulation\nPrevious year OKR Repo: https://git.target.com/Roundel-Optimus-Platform/poc/tree/lift_calculation_new\ncalculation\nLift calculation notebooks: https://git.target.com/Roundel-Optimus-Platform/poc/tree/lift_calculation_new\n/lift_calculation_with_counterfactual_crunch",
+      "cells": [
+        "Codebase",
+        "Workflow GIT\nOptimizer and https://git.target.com/Roundel-Optimus-Platform/inflight-optimization-vxai\nStrategizer\nUpsell https://git.target.com/Roundel-Optimus-Platform/Upsell\nInventory\nOptimization\nOptimization Lift https://git.target.com/Roundel-Optimus-Platform/optimization_lift\nHolistic Optimization https://git.target.com/Roundel-Optimus-Platform/holistic_optimization\nData discovery notebooks: https://git.target.com/Roundel-Optimus-Platform/holistic_optimization/tree/main\n/notebooks\nHolistic Optimization Simulation Data Generation: https://git.target.com/Roundel-Optimus-Platform/inflight-\noptimization-vxai/tree/holistic_opt_budget_simulation\nPrevious year OKR Repo: https://git.target.com/Roundel-Optimus-Platform/poc/tree/lift_calculation_new\ncalculation\nLift calculation notebooks: https://git.target.com/Roundel-Optimus-Platform/poc/tree/lift_calculation_new\n/lift_calculation_with_counterfactual_crunch"
+      ],
+      "source_file": "Optimus Resources_be22766d4e034e6887a914b7e48daa5a-191025-2239-1700_extracted.json",
+      "payload_idx": 2,
+      "table_idx": 0,
+      "row_idx": 3,
+      "table_headers": [
+        "Team",
+        "Abhishek Mishra\nPreetham Gittagandla\nSasidhar Myneni\nSomesh Jaishwal\nTushara Nivarthi\nSuba Palani"
+      ],
+      "header_text": "Team | Abhishek Mishra\nPreetham Gittagandla\nSasidhar Myneni\nSomesh Jaishwal\nTushara Nivarthi\nSuba Palani",
+      "type": "table_row"
+    },
+    {
+      "row_text": "Production\nWorkflows | Workflow Link Schedule\nTcom Optimizer https://shepherd.prod.target.com/workflow/90351345 8:45 am IST - Daily\nBMP Optimizer https://shepherd.prod.target.com/workflow/90353649 7:45 am IST - Daily\nPinterest Optimizer https://shepherd.prod.target.com/workflow/90353344 9:00 am IST - Daily\nUpsell https://shepherd.prod.target.com/workflow 6:00 pm IST - Sunday\n/108160476\nGAM forecast https://shepherd.prod.target.com/workflow/69263667 3:30 pm IST - Daily\nrequest\nOptimization Liftt https://shepherd.prod.target.com/workflow Triggers once upsell weekly flow is complete on\n/110377977 Sunday\nTo debug production workflows, check logs in tgt-cnf-prod-ds-optimus/ray_logs folder in prod bucket",
+      "cells": [
+        "Production\nWorkflows",
+        "Workflow Link Schedule\nTcom Optimizer https://shepherd.prod.target.com/workflow/90351345 8:45 am IST - Daily\nBMP Optimizer https://shepherd.prod.target.com/workflow/90353649 7:45 am IST - Daily\nPinterest Optimizer https://shepherd.prod.target.com/workflow/90353344 9:00 am IST - Daily\nUpsell https://shepherd.prod.target.com/workflow 6:00 pm IST - Sunday\n/108160476\nGAM forecast https://shepherd.prod.target.com/workflow/69263667 3:30 pm IST - Daily\nrequest\nOptimization Liftt https://shepherd.prod.target.com/workflow Triggers once upsell weekly flow is complete on\n/110377977 Sunday\nTo debug production workflows, check logs in tgt-cnf-prod-ds-optimus/ray_logs folder in prod bucket"
+      ],
+      "source_file": "Optimus Resources_be22766d4e034e6887a914b7e48daa5a-191025-2239-1700_extracted.json",
+      "payload_idx": 2,
+      "table_idx": 0,
+      "row_idx": 4,
+      "table_headers": [
+        "Team",
+        "Abhishek Mishra\nPreetham Gittagandla\nSasidhar Myneni\nSomesh Jaishwal\nTushara Nivarthi\nSuba Palani"
+      ],
+      "header_text": "Team | Abhishek Mishra\nPreetham Gittagandla\nSasidhar Myneni\nSomesh Jaishwal\nTushara Nivarthi\nSuba Palani",
+      "type": "table_row"
+    },
+    {
+      "row_text": "Optimizer and\nStrategizer | https://git.target.com/Roundel-Optimus-Platform/inflight-optimization-vxai",
+      "cells": [
+        "Optimizer and\nStrategizer",
+        "https://git.target.com/Roundel-Optimus-Platform/inflight-optimization-vxai"
+      ],
+      "source_file": "Optimus Resources_be22766d4e034e6887a914b7e48daa5a-191025-2239-1700_extracted.json",
+      "payload_idx": 2,
+      "table_idx": 1,
+      "row_idx": 0,
+      "table_headers": [
+        "Workflow",
+        "GIT"
+      ],
+      "header_text": "Workflow | GIT",
+      "type": "table_row"
+    },
+    {
+      "row_text": "Upsell | https://git.target.com/Roundel-Optimus-Platform/Upsell",
+      "cells": [
+        "Upsell",
+        "https://git.target.com/Roundel-Optimus-Platform/Upsell"
+      ],
+      "source_file": "Optimus Resources_be22766d4e034e6887a914b7e48daa5a-191025-2239-1700_extracted.json",
+      "payload_idx": 2,
+      "table_idx": 1,
+      "row_idx": 1,
+      "table_headers": [
+        "Workflow",
+        "GIT"
+      ],
+      "header_text": "Workflow | GIT",
+      "type": "table_row"
+    },
+    {
+      "row_text": "Inventory\nOptimization | ",
+      "cells": [
+        "Inventory\nOptimization",
+        ""
+      ],
+      "source_file": "Optimus Resources_be22766d4e034e6887a914b7e48daa5a-191025-2239-1700_extracted.json",
+      "payload_idx": 2,
+      "table_idx": 1,
+      "row_idx": 2,
+      "table_headers": [
+        "Workflow",
+        "GIT"
+      ],
+      "header_text": "Workflow | GIT",
+      "type": "table_row"
+    },
+    {
+      "row_text": "Optimization Lift | https://git.target.com/Roundel-Optimus-Platform/optimization_lift",
+      "cells": [
+        "Optimization Lift",
+        "https://git.target.com/Roundel-Optimus-Platform/optimization_lift"
+      ],
+      "source_file": "Optimus Resources_be22766d4e034e6887a914b7e48daa5a-191025-2239-1700_extracted.json",
+      "payload_idx": 2,
+      "table_idx": 1,
+      "row_idx": 3,
+      "table_headers": [
+        "Workflow",
+        "GIT"
+      ],
+      "header_text": "Workflow | GIT",
+      "type": "table_row"
+    },
+    {
+      "row_text": "Holistic Optimization | https://git.target.com/Roundel-Optimus-Platform/holistic_optimization\nData discovery notebooks: https://git.target.com/Roundel-Optimus-Platform/holistic_optimization/tree/main\n/notebooks\nHolistic Optimization Simulation Data Generation: https://git.target.com/Roundel-Optimus-Platform/inflight-\noptimization-vxai/tree/holistic_opt_budget_simulation",
+      "cells": [
+        "Holistic Optimization",
+        "https://git.target.com/Roundel-Optimus-Platform/holistic_optimization\nData discovery notebooks: https://git.target.com/Roundel-Optimus-Platform/holistic_optimization/tree/main\n/notebooks\nHolistic Optimization Simulation Data Generation: https://git.target.com/Roundel-Optimus-Platform/inflight-\noptimization-vxai/tree/holistic_opt_budget_simulation"
+      ],
+      "source_file": "Optimus Resources_be22766d4e034e6887a914b7e48daa5a-191025-2239-1700_extracted.json",
+      "payload_idx": 2,
+      "table_idx": 1,
+      "row_idx": 4,
+      "table_headers": [
+        "Workflow",
+        "GIT"
+      ],
+      "header_text": "Workflow | GIT",
+      "type": "table_row"
+    },
+    {
+      "row_text": "Previous year OKR\ncalculation | Repo: https://git.target.com/Roundel-Optimus-Platform/poc/tree/lift_calculation_new\nLift calculation notebooks: https://git.target.com/Roundel-Optimus-Platform/poc/tree/lift_calculation_new\n/lift_calculation_with_counterfactual_crunch",
+      "cells": [
+        "Previous year OKR\ncalculation",
+        "Repo: https://git.target.com/Roundel-Optimus-Platform/poc/tree/lift_calculation_new\nLift calculation notebooks: https://git.target.com/Roundel-Optimus-Platform/poc/tree/lift_calculation_new\n/lift_calculation_with_counterfactual_crunch"
+      ],
+      "source_file": "Optimus Resources_be22766d4e034e6887a914b7e48daa5a-191025-2239-1700_extracted.json",
+      "payload_idx": 2,
+      "table_idx": 1,
+      "row_idx": 5,
+      "table_headers": [
+        "Workflow",
+        "GIT"
+      ],
+      "header_text": "Workflow | GIT",
+      "type": "table_row"
+    },
+    {
+      "row_text": "Tcom Optimizer | https://shepherd.prod.target.com/workflow/90351345 | 8:45 am IST - Daily",
+      "cells": [
+        "Tcom Optimizer",
+        "https://shepherd.prod.target.com/workflow/90351345",
+        "8:45 am IST - Daily"
+      ],
+      "source_file": "Optimus Resources_be22766d4e034e6887a914b7e48daa5a-191025-2239-1700_extracted.json",
+      "payload_idx": 2,
+      "table_idx": 2,
+      "row_idx": 0,
+      "table_headers": [
+        "Workflow",
+        "Link",
+        "Schedule"
+      ],
+      "header_text": "Workflow | Link | Schedule",
+      "type": "table_row"
+    },
+    {
+      "row_text": "BMP Optimizer | https://shepherd.prod.target.com/workflow/90353649 | 7:45 am IST - Daily",
+      "cells": [
+        "BMP Optimizer",
+        "https://shepherd.prod.target.com/workflow/90353649",
+        "7:45 am IST - Daily"
+      ],
+      "source_file": "Optimus Resources_be22766d4e034e6887a914b7e48daa5a-191025-2239-1700_extracted.json",
+      "payload_idx": 2,
+      "table_idx": 2,
+      "row_idx": 1,
+      "table_headers": [
+        "Workflow",
+        "Link",
+        "Schedule"
+      ],
+      "header_text": "Workflow | Link | Schedule",
+      "type": "table_row"
+    },
+    {
+      "row_text": "Pinterest Optimizer | https://shepherd.prod.target.com/workflow/90353344 | 9:00 am IST - Daily",
+      "cells": [
+        "Pinterest Optimizer",
+        "https://shepherd.prod.target.com/workflow/90353344",
+        "9:00 am IST - Daily"
+      ],
+      "source_file": "Optimus Resources_be22766d4e034e6887a914b7e48daa5a-191025-2239-1700_extracted.json",
+      "payload_idx": 2,
+      "table_idx": 2,
+      "row_idx": 2,
+      "table_headers": [
+        "Workflow",
+        "Link",
+        "Schedule"
+      ],
+      "header_text": "Workflow | Link | Schedule",
+      "type": "table_row"
+    },
+    {
+      "row_text": "Upsell | https://shepherd.prod.target.com/workflow\n/108160476 | 6:00 pm IST - Sunday",
+      "cells": [
+        "Upsell",
+        "https://shepherd.prod.target.com/workflow\n/108160476",
+        "6:00 pm IST - Sunday"
+      ],
+      "source_file": "Optimus Resources_be22766d4e034e6887a914b7e48daa5a-191025-2239-1700_extracted.json",
+      "payload_idx": 2,
+      "table_idx": 2,
+      "row_idx": 3,
+      "table_headers": [
+        "Workflow",
+        "Link",
+        "Schedule"
+      ],
+      "header_text": "Workflow | Link | Schedule",
+      "type": "table_row"
+    },
+    {
+      "row_text": "GAM forecast\nrequest | https://shepherd.prod.target.com/workflow/69263667 | 3:30 pm IST - Daily",
+      "cells": [
+        "GAM forecast\nrequest",
+        "https://shepherd.prod.target.com/workflow/69263667",
+        "3:30 pm IST - Daily"
+      ],
+      "source_file": "Optimus Resources_be22766d4e034e6887a914b7e48daa5a-191025-2239-1700_extracted.json",
+      "payload_idx": 2,
+      "table_idx": 2,
+      "row_idx": 4,
+      "table_headers": [
+        "Workflow",
+        "Link",
+        "Schedule"
+      ],
+      "header_text": "Workflow | Link | Schedule",
+      "type": "table_row"
+    },
+    {
+      "row_text": "Optimization Liftt | https://shepherd.prod.target.com/workflow\n/110377977 | Triggers once upsell weekly flow is complete on\nSunday",
+      "cells": [
+        "Optimization Liftt",
+        "https://shepherd.prod.target.com/workflow\n/110377977",
+        "Triggers once upsell weekly flow is complete on\nSunday"
+      ],
+      "source_file": "Optimus Resources_be22766d4e034e6887a914b7e48daa5a-191025-2239-1700_extracted.json",
+      "payload_idx": 2,
+      "table_idx": 2,
+      "row_idx": 5,
+      "table_headers": [
+        "Workflow",
+        "Link",
+        "Schedule"
+      ],
+      "header_text": "Workflow | Link | Schedule",
+      "type": "table_row"
+    },
+    {
+      "row_text": "Previous\nYear OKRs | OKRs | Results Tracking\nPrevious OKR Methodology: Lift Methodology - tcom - 2023\nNew OKR Methodology: https://git.target.com/Roundel-Optimus-Platform/optimization_lift\n2024 OKRs: Impact comparison for 2023 vs 2024\nThis year we'll have to use the optimization lift workflow to generate the OKR numbers",
+      "cells": [
+        "Previous\nYear OKRs",
+        "OKRs | Results Tracking\nPrevious OKR Methodology: Lift Methodology - tcom - 2023\nNew OKR Methodology: https://git.target.com/Roundel-Optimus-Platform/optimization_lift\n2024 OKRs: Impact comparison for 2023 vs 2024\nThis year we'll have to use the optimization lift workflow to generate the OKR numbers"
+      ],
+      "source_file": "Optimus Resources_be22766d4e034e6887a914b7e48daa5a-191025-2239-1700_extracted.json",
+      "payload_idx": 2,
+      "table_idx": 3,
+      "row_idx": 0,
+      "table_headers": [
+        "Data Tables",
+        "Recommend prd_optimus_fds.tcom_campaign_recommendation\nations\nprd_optimus_fds.tcom_campaign_recommendations_vxai (This populates after 1 pm) Sometimes need to repair this\ntable, the data is generally copied to HDFS path but the partitions are not added. So do repair before querying on\nthis table\n'tgt-cnf-prod-ds-optimus/budget_optimization/optimizer_output/tcom_campaign_recommendation'\nRecommendations are also written to this prod bucket\nRecommend prd_optimus_fds.inflight_online_acknowledgement_vw\nations Status\nFeatures prd_optimus_fds.tcom_online_feature_data\nPost policy https://console.cloud.google.com/storage/browser/tgt-cnf-prod-ds-optimus/budget_optimization/feature_output\nfeature /tcom_policy_feature_data/\ncalculation\nTcom prd_optimus_fds.tcom_optimization_lift\nOptimization\nLift\nRay Logs https://console.cloud.google.com/storage/browser/tgt-cnf-prod-ds-optimus;tab=objects?\nand data forceOnBucketsSortingFiltering=true&authuser=0&project=tgt-cnf-prod-ds-\noptimus&prefix=&forceOnObjectsSortingFiltering=false"
+      ],
+      "header_text": "Data Tables | Recommend prd_optimus_fds.tcom_campaign_recommendation\nations\nprd_optimus_fds.tcom_campaign_recommendations_vxai (This populates after 1 pm) Sometimes need to repair this\ntable, the data is generally copied to HDFS path but the partitions are not added. So do repair before querying on\nthis table\n'tgt-cnf-prod-ds-optimus/budget_optimization/optimizer_output/tcom_campaign_recommendation'\nRecommendations are also written to this prod bucket\nRecommend prd_optimus_fds.inflight_online_acknowledgement_vw\nations Status\nFeatures prd_optimus_fds.tcom_online_feature_data\nPost policy https://console.cloud.google.com/storage/browser/tgt-cnf-prod-ds-optimus/budget_optimization/feature_output\nfeature /tcom_policy_feature_data/\ncalculation\nTcom prd_optimus_fds.tcom_optimization_lift\nOptimization\nLift\nRay Logs https://console.cloud.google.com/storage/browser/tgt-cnf-prod-ds-optimus;tab=objects?\nand data forceOnBucketsSortingFiltering=true&authuser=0&project=tgt-cnf-prod-ds-\noptimus&prefix=&forceOnObjectsSortingFiltering=false",
+      "type": "table_row"
+    },
+    {
+      "row_text": "Previous\nYear peak\nsupport | Peak Support",
+      "cells": [
+        "Previous\nYear peak\nsupport",
+        "Peak Support"
+      ],
+      "source_file": "Optimus Resources_be22766d4e034e6887a914b7e48daa5a-191025-2239-1700_extracted.json",
+      "payload_idx": 2,
+      "table_idx": 3,
+      "row_idx": 1,
+      "table_headers": [
+        "Data Tables",
+        "Recommend prd_optimus_fds.tcom_campaign_recommendation\nations\nprd_optimus_fds.tcom_campaign_recommendations_vxai (This populates after 1 pm) Sometimes need to repair this\ntable, the data is generally copied to HDFS path but the partitions are not added. So do repair before querying on\nthis table\n'tgt-cnf-prod-ds-optimus/budget_optimization/optimizer_output/tcom_campaign_recommendation'\nRecommendations are also written to this prod bucket\nRecommend prd_optimus_fds.inflight_online_acknowledgement_vw\nations Status\nFeatures prd_optimus_fds.tcom_online_feature_data\nPost policy https://console.cloud.google.com/storage/browser/tgt-cnf-prod-ds-optimus/budget_optimization/feature_output\nfeature /tcom_policy_feature_data/\ncalculation\nTcom prd_optimus_fds.tcom_optimization_lift\nOptimization\nLift\nRay Logs https://console.cloud.google.com/storage/browser/tgt-cnf-prod-ds-optimus;tab=objects?\nand data forceOnBucketsSortingFiltering=true&authuser=0&project=tgt-cnf-prod-ds-\noptimus&prefix=&forceOnObjectsSortingFiltering=false"
+      ],
+      "header_text": "Data Tables | Recommend prd_optimus_fds.tcom_campaign_recommendation\nations\nprd_optimus_fds.tcom_campaign_recommendations_vxai (This populates after 1 pm) Sometimes need to repair this\ntable, the data is generally copied to HDFS path but the partitions are not added. So do repair before querying on\nthis table\n'tgt-cnf-prod-ds-optimus/budget_optimization/optimizer_output/tcom_campaign_recommendation'\nRecommendations are also written to this prod bucket\nRecommend prd_optimus_fds.inflight_online_acknowledgement_vw\nations Status\nFeatures prd_optimus_fds.tcom_online_feature_data\nPost policy https://console.cloud.google.com/storage/browser/tgt-cnf-prod-ds-optimus/budget_optimization/feature_output\nfeature /tcom_policy_feature_data/\ncalculation\nTcom prd_optimus_fds.tcom_optimization_lift\nOptimization\nLift\nRay Logs https://console.cloud.google.com/storage/browser/tgt-cnf-prod-ds-optimus;tab=objects?\nand data forceOnBucketsSortingFiltering=true&authuser=0&project=tgt-cnf-prod-ds-\noptimus&prefix=&forceOnObjectsSortingFiltering=false",
+      "type": "table_row"
+    },
+    {
+      "row_text": "Optimus\nVersion\nManagement | Version Management for Optimus",
+      "cells": [
+        "Optimus\nVersion\nManagement",
+        "Version Management for Optimus"
+      ],
+      "source_file": "Optimus Resources_be22766d4e034e6887a914b7e48daa5a-191025-2239-1700_extracted.json",
+      "payload_idx": 2,
+      "table_idx": 3,
+      "row_idx": 2,
+      "table_headers": [
+        "Data Tables",
+        "Recommend prd_optimus_fds.tcom_campaign_recommendation\nations\nprd_optimus_fds.tcom_campaign_recommendations_vxai (This populates after 1 pm) Sometimes need to repair this\ntable, the data is generally copied to HDFS path but the partitions are not added. So do repair before querying on\nthis table\n'tgt-cnf-prod-ds-optimus/budget_optimization/optimizer_output/tcom_campaign_recommendation'\nRecommendations are also written to this prod bucket\nRecommend prd_optimus_fds.inflight_online_acknowledgement_vw\nations Status\nFeatures prd_optimus_fds.tcom_online_feature_data\nPost policy https://console.cloud.google.com/storage/browser/tgt-cnf-prod-ds-optimus/budget_optimization/feature_output\nfeature /tcom_policy_feature_data/\ncalculation\nTcom prd_optimus_fds.tcom_optimization_lift\nOptimization\nLift\nRay Logs https://console.cloud.google.com/storage/browser/tgt-cnf-prod-ds-optimus;tab=objects?\nand data forceOnBucketsSortingFiltering=true&authuser=0&project=tgt-cnf-prod-ds-\noptimus&prefix=&forceOnObjectsSortingFiltering=false"
+      ],
+      "header_text": "Data Tables | Recommend prd_optimus_fds.tcom_campaign_recommendation\nations\nprd_optimus_fds.tcom_campaign_recommendations_vxai (This populates after 1 pm) Sometimes need to repair this\ntable, the data is generally copied to HDFS path but the partitions are not added. So do repair before querying on\nthis table\n'tgt-cnf-prod-ds-optimus/budget_optimization/optimizer_output/tcom_campaign_recommendation'\nRecommendations are also written to this prod bucket\nRecommend prd_optimus_fds.inflight_online_acknowledgement_vw\nations Status\nFeatures prd_optimus_fds.tcom_online_feature_data\nPost policy https://console.cloud.google.com/storage/browser/tgt-cnf-prod-ds-optimus/budget_optimization/feature_output\nfeature /tcom_policy_feature_data/\ncalculation\nTcom prd_optimus_fds.tcom_optimization_lift\nOptimization\nLift\nRay Logs https://console.cloud.google.com/storage/browser/tgt-cnf-prod-ds-optimus;tab=objects?\nand data forceOnBucketsSortingFiltering=true&authuser=0&project=tgt-cnf-prod-ds-\noptimus&prefix=&forceOnObjectsSortingFiltering=false",
+      "type": "table_row"
+    },
+    {
+      "row_text": "Optimus\nNext Step | 1. OKR dashboard: Srivatchala is working on it\n2. Alerting mechanism using Optimus logs\na. Number of input campaign and lines\nb. Number of campaigns and lines with Optimal solution\nc. Number of campaigns dropped in all test cases\nd. Number of campaigns with explainability generated\ne. Number of final lines and campaigns with recommendations\n3. Enhancements with GenAI summary\na. Sometimes it hallucinates and doesn't follow the system prompt Experiment with adding system prompt and user prompt to\nget better summary\n4. Optimus enhancements\na. Remove strategizer - have a fixed schedule say every 3 days and optimize, since we have auto approval in place\n5. Holistic Optimization\n6. Inventory Optimization productionisation",
+      "cells": [
+        "Optimus\nNext Step",
+        "1. OKR dashboard: Srivatchala is working on it\n2. Alerting mechanism using Optimus logs\na. Number of input campaign and lines\nb. Number of campaigns and lines with Optimal solution\nc. Number of campaigns dropped in all test cases\nd. Number of campaigns with explainability generated\ne. Number of final lines and campaigns with recommendations\n3. Enhancements with GenAI summary\na. Sometimes it hallucinates and doesn't follow the system prompt Experiment with adding system prompt and user prompt to\nget better summary\n4. Optimus enhancements\na. Remove strategizer - have a fixed schedule say every 3 days and optimize, since we have auto approval in place\n5. Holistic Optimization\n6. Inventory Optimization productionisation"
+      ],
+      "source_file": "Optimus Resources_be22766d4e034e6887a914b7e48daa5a-191025-2239-1700_extracted.json",
+      "payload_idx": 2,
+      "table_idx": 3,
+      "row_idx": 3,
+      "table_headers": [
+        "Data Tables",
+        "Recommend prd_optimus_fds.tcom_campaign_recommendation\nations\nprd_optimus_fds.tcom_campaign_recommendations_vxai (This populates after 1 pm) Sometimes need to repair this\ntable, the data is generally copied to HDFS path but the partitions are not added. So do repair before querying on\nthis table\n'tgt-cnf-prod-ds-optimus/budget_optimization/optimizer_output/tcom_campaign_recommendation'\nRecommendations are also written to this prod bucket\nRecommend prd_optimus_fds.inflight_online_acknowledgement_vw\nations Status\nFeatures prd_optimus_fds.tcom_online_feature_data\nPost policy https://console.cloud.google.com/storage/browser/tgt-cnf-prod-ds-optimus/budget_optimization/feature_output\nfeature /tcom_policy_feature_data/\ncalculation\nTcom prd_optimus_fds.tcom_optimization_lift\nOptimization\nLift\nRay Logs https://console.cloud.google.com/storage/browser/tgt-cnf-prod-ds-optimus;tab=objects?\nand data forceOnBucketsSortingFiltering=true&authuser=0&project=tgt-cnf-prod-ds-\noptimus&prefix=&forceOnObjectsSortingFiltering=false"
+      ],
+      "header_text": "Data Tables | Recommend prd_optimus_fds.tcom_campaign_recommendation\nations\nprd_optimus_fds.tcom_campaign_recommendations_vxai (This populates after 1 pm) Sometimes need to repair this\ntable, the data is generally copied to HDFS path but the partitions are not added. So do repair before querying on\nthis table\n'tgt-cnf-prod-ds-optimus/budget_optimization/optimizer_output/tcom_campaign_recommendation'\nRecommendations are also written to this prod bucket\nRecommend prd_optimus_fds.inflight_online_acknowledgement_vw\nations Status\nFeatures prd_optimus_fds.tcom_online_feature_data\nPost policy https://console.cloud.google.com/storage/browser/tgt-cnf-prod-ds-optimus/budget_optimization/feature_output\nfeature /tcom_policy_feature_data/\ncalculation\nTcom prd_optimus_fds.tcom_optimization_lift\nOptimization\nLift\nRay Logs https://console.cloud.google.com/storage/browser/tgt-cnf-prod-ds-optimus;tab=objects?\nand data forceOnBucketsSortingFiltering=true&authuser=0&project=tgt-cnf-prod-ds-\noptimus&prefix=&forceOnObjectsSortingFiltering=false",
+      "type": "table_row"
+    },
+    {
+      "row_text": "Recommend\nations Status | prd_optimus_fds.inflight_online_acknowledgement_vw",
+      "cells": [
+        "Recommend\nations Status",
+        "prd_optimus_fds.inflight_online_acknowledgement_vw"
+      ],
+      "source_file": "Optimus Resources_be22766d4e034e6887a914b7e48daa5a-191025-2239-1700_extracted.json",
+      "payload_idx": 2,
+      "table_idx": 4,
+      "row_idx": 0,
+      "table_headers": [
+        "Recommend\nations",
+        "prd_optimus_fds.tcom_campaign_recommendation\nprd_optimus_fds.tcom_campaign_recommendations_vxai (This populates after 1 pm) Sometimes need to repair this\ntable, the data is generally copied to HDFS path but the partitions are not added. So do repair before querying on\nthis table\n'tgt-cnf-prod-ds-optimus/budget_optimization/optimizer_output/tcom_campaign_recommendation'\nRecommendations are also written to this prod bucket"
+      ],
+      "header_text": "Recommend\nations | prd_optimus_fds.tcom_campaign_recommendation\nprd_optimus_fds.tcom_campaign_recommendations_vxai (This populates after 1 pm) Sometimes need to repair this\ntable, the data is generally copied to HDFS path but the partitions are not added. So do repair before querying on\nthis table\n'tgt-cnf-prod-ds-optimus/budget_optimization/optimizer_output/tcom_campaign_recommendation'\nRecommendations are also written to this prod bucket",
+      "type": "table_row"
+    },
+    {
+      "row_text": "Features | prd_optimus_fds.tcom_online_feature_data",
+      "cells": [
+        "Features",
+        "prd_optimus_fds.tcom_online_feature_data"
+      ],
+      "source_file": "Optimus Resources_be22766d4e034e6887a914b7e48daa5a-191025-2239-1700_extracted.json",
+      "payload_idx": 2,
+      "table_idx": 4,
+      "row_idx": 1,
+      "table_headers": [
+        "Recommend\nations",
+        "prd_optimus_fds.tcom_campaign_recommendation\nprd_optimus_fds.tcom_campaign_recommendations_vxai (This populates after 1 pm) Sometimes need to repair this\ntable, the data is generally copied to HDFS path but the partitions are not added. So do repair before querying on\nthis table\n'tgt-cnf-prod-ds-optimus/budget_optimization/optimizer_output/tcom_campaign_recommendation'\nRecommendations are also written to this prod bucket"
+      ],
+      "header_text": "Recommend\nations | prd_optimus_fds.tcom_campaign_recommendation\nprd_optimus_fds.tcom_campaign_recommendations_vxai (This populates after 1 pm) Sometimes need to repair this\ntable, the data is generally copied to HDFS path but the partitions are not added. So do repair before querying on\nthis table\n'tgt-cnf-prod-ds-optimus/budget_optimization/optimizer_output/tcom_campaign_recommendation'\nRecommendations are also written to this prod bucket",
+      "type": "table_row"
+    },
+    {
+      "row_text": "Post policy\nfeature\ncalculation | https://console.cloud.google.com/storage/browser/tgt-cnf-prod-ds-optimus/budget_optimization/feature_output\n/tcom_policy_feature_data/",
+      "cells": [
+        "Post policy\nfeature\ncalculation",
+        "https://console.cloud.google.com/storage/browser/tgt-cnf-prod-ds-optimus/budget_optimization/feature_output\n/tcom_policy_feature_data/"
+      ],
+      "source_file": "Optimus Resources_be22766d4e034e6887a914b7e48daa5a-191025-2239-1700_extracted.json",
+      "payload_idx": 2,
+      "table_idx": 4,
+      "row_idx": 2,
+      "table_headers": [
+        "Recommend\nations",
+        "prd_optimus_fds.tcom_campaign_recommendation\nprd_optimus_fds.tcom_campaign_recommendations_vxai (This populates after 1 pm) Sometimes need to repair this\ntable, the data is generally copied to HDFS path but the partitions are not added. So do repair before querying on\nthis table\n'tgt-cnf-prod-ds-optimus/budget_optimization/optimizer_output/tcom_campaign_recommendation'\nRecommendations are also written to this prod bucket"
+      ],
+      "header_text": "Recommend\nations | prd_optimus_fds.tcom_campaign_recommendation\nprd_optimus_fds.tcom_campaign_recommendations_vxai (This populates after 1 pm) Sometimes need to repair this\ntable, the data is generally copied to HDFS path but the partitions are not added. So do repair before querying on\nthis table\n'tgt-cnf-prod-ds-optimus/budget_optimization/optimizer_output/tcom_campaign_recommendation'\nRecommendations are also written to this prod bucket",
+      "type": "table_row"
+    },
+    {
+      "row_text": "Tcom\nOptimization\nLift | prd_optimus_fds.tcom_optimization_lift",
+      "cells": [
+        "Tcom\nOptimization\nLift",
+        "prd_optimus_fds.tcom_optimization_lift"
+      ],
+      "source_file": "Optimus Resources_be22766d4e034e6887a914b7e48daa5a-191025-2239-1700_extracted.json",
+      "payload_idx": 2,
+      "table_idx": 4,
+      "row_idx": 3,
+      "table_headers": [
+        "Recommend\nations",
+        "prd_optimus_fds.tcom_campaign_recommendation\nprd_optimus_fds.tcom_campaign_recommendations_vxai (This populates after 1 pm) Sometimes need to repair this\ntable, the data is generally copied to HDFS path but the partitions are not added. So do repair before querying on\nthis table\n'tgt-cnf-prod-ds-optimus/budget_optimization/optimizer_output/tcom_campaign_recommendation'\nRecommendations are also written to this prod bucket"
+      ],
+      "header_text": "Recommend\nations | prd_optimus_fds.tcom_campaign_recommendation\nprd_optimus_fds.tcom_campaign_recommendations_vxai (This populates after 1 pm) Sometimes need to repair this\ntable, the data is generally copied to HDFS path but the partitions are not added. So do repair before querying on\nthis table\n'tgt-cnf-prod-ds-optimus/budget_optimization/optimizer_output/tcom_campaign_recommendation'\nRecommendations are also written to this prod bucket",
+      "type": "table_row"
+    },
+    {
+      "row_text": "Ray Logs\nand data | https://console.cloud.google.com/storage/browser/tgt-cnf-prod-ds-optimus;tab=objects?\nforceOnBucketsSortingFiltering=true&authuser=0&project=tgt-cnf-prod-ds-\noptimus&prefix=&forceOnObjectsSortingFiltering=false",
+      "cells": [
+        "Ray Logs\nand data",
+        "https://console.cloud.google.com/storage/browser/tgt-cnf-prod-ds-optimus;tab=objects?\nforceOnBucketsSortingFiltering=true&authuser=0&project=tgt-cnf-prod-ds-\noptimus&prefix=&forceOnObjectsSortingFiltering=false"
+      ],
+      "source_file": "Optimus Resources_be22766d4e034e6887a914b7e48daa5a-191025-2239-1700_extracted.json",
+      "payload_idx": 2,
+      "table_idx": 4,
+      "row_idx": 4,
+      "table_headers": [
+        "Recommend\nations",
+        "prd_optimus_fds.tcom_campaign_recommendation\nprd_optimus_fds.tcom_campaign_recommendations_vxai (This populates after 1 pm) Sometimes need to repair this\ntable, the data is generally copied to HDFS path but the partitions are not added. So do repair before querying on\nthis table\n'tgt-cnf-prod-ds-optimus/budget_optimization/optimizer_output/tcom_campaign_recommendation'\nRecommendations are also written to this prod bucket"
+      ],
+      "header_text": "Recommend\nations | prd_optimus_fds.tcom_campaign_recommendation\nprd_optimus_fds.tcom_campaign_recommendations_vxai (This populates after 1 pm) Sometimes need to repair this\ntable, the data is generally copied to HDFS path but the partitions are not added. So do repair before querying on\nthis table\n'tgt-cnf-prod-ds-optimus/budget_optimization/optimizer_output/tcom_campaign_recommendation'\nRecommendations are also written to this prod bucket",
+      "type": "table_row"
+    },
+    {
+      "row_text": "Multi-Division | -98% | -83%",
+      "cells": [
+        "Multi-Division",
+        "-98%",
+        "-83%"
+      ],
+      "source_file": "Optimus Impact in FY'24_70029109679049d19945849c1664e085-191025-2240-1702_extracted.json",
+      "payload_idx": 3,
+      "table_idx": 0,
+      "row_idx": 0,
+      "table_headers": [
+        "Category",
+        "TCIN Count change %",
+        "Sales Change %"
+      ],
+      "header_text": "Category | TCIN Count change % | Sales Change %",
+      "type": "table_row"
+    },
+    {
+      "row_text": "Toys | -91% | -6%",
+      "cells": [
+        "Toys",
+        "-91%",
+        "-6%"
+      ],
+      "source_file": "Optimus Impact in FY'24_70029109679049d19945849c1664e085-191025-2240-1702_extracted.json",
+      "payload_idx": 3,
+      "table_idx": 0,
+      "row_idx": 1,
+      "table_headers": [
+        "Category",
+        "TCIN Count change %",
+        "Sales Change %"
+      ],
+      "header_text": "Category | TCIN Count change % | Sales Change %",
+      "type": "table_row"
+    },
+    {
+      "row_text": "Beauty | -69% | -16%",
+      "cells": [
+        "Beauty",
+        "-69%",
+        "-16%"
+      ],
+      "source_file": "Optimus Impact in FY'24_70029109679049d19945849c1664e085-191025-2240-1702_extracted.json",
+      "payload_idx": 3,
+      "table_idx": 0,
+      "row_idx": 2,
+      "table_headers": [
+        "Category",
+        "TCIN Count change %",
+        "Sales Change %"
+      ],
+      "header_text": "Category | TCIN Count change % | Sales Change %",
+      "type": "table_row"
+    },
+    {
+      "row_text": "Entertainment | -66% | -46%",
+      "cells": [
+        "Entertainment",
+        "-66%",
+        "-46%"
+      ],
+      "source_file": "Optimus Impact in FY'24_70029109679049d19945849c1664e085-191025-2240-1702_extracted.json",
+      "payload_idx": 3,
+      "table_idx": 0,
+      "row_idx": 3,
+      "table_headers": [
+        "Category",
+        "TCIN Count change %",
+        "Sales Change %"
+      ],
+      "header_text": "Category | TCIN Count change % | Sales Change %",
+      "type": "table_row"
+    },
+    {
+      "row_text": "1 | A/B Testing | Specific defined flights, trying\nto achieve certain goal. (Test\nCampaigns) | ",
+      "cells": [
+        "1",
+        "A/B Testing",
+        "Specific defined flights, trying\nto achieve certain goal. (Test\nCampaigns)",
+        ""
+      ],
+      "source_file": "Optimus Recommendation Rejection_105ba7c854034b278806e34c248a0d88-191025-2240-1706_extracted.json",
+      "payload_idx": 4,
+      "table_idx": 0,
+      "row_idx": 0,
+      "table_headers": [
+        "S\nr\nNo",
+        "Rejection\nReasons",
+        "Descriptions",
+        "Detailed Cause"
+      ],
+      "header_text": "S\nr\nNo | Rejection\nReasons | Descriptions | Detailed Cause",
+      "type": "table_row"
+    },
+    {
+      "row_text": "2 | Additional\n/Revised\nBudget | Change in Media Plan post\nlaunch (mid flight) | ",
+      "cells": [
+        "2",
+        "Additional\n/Revised\nBudget",
+        "Change in Media Plan post\nlaunch (mid flight)",
+        ""
+      ],
+      "source_file": "Optimus Recommendation Rejection_105ba7c854034b278806e34c248a0d88-191025-2240-1706_extracted.json",
+      "payload_idx": 4,
+      "table_idx": 0,
+      "row_idx": 1,
+      "table_headers": [
+        "S\nr\nNo",
+        "Rejection\nReasons",
+        "Descriptions",
+        "Detailed Cause"
+      ],
+      "header_text": "S\nr\nNo | Rejection\nReasons | Descriptions | Detailed Cause",
+      "type": "table_row"
+    },
+    {
+      "row_text": "3 | Campaigns\nending in less\nthan 7 days | Campaigns ending in less\nthan 7 days | ",
+      "cells": [
+        "3",
+        "Campaigns\nending in less\nthan 7 days",
+        "Campaigns ending in less\nthan 7 days",
+        ""
+      ],
+      "source_file": "Optimus Recommendation Rejection_105ba7c854034b278806e34c248a0d88-191025-2240-1706_extracted.json",
+      "payload_idx": 4,
+      "table_idx": 0,
+      "row_idx": 2,
+      "table_headers": [
+        "S\nr\nNo",
+        "Rejection\nReasons",
+        "Descriptions",
+        "Detailed Cause"
+      ],
+      "header_text": "S\nr\nNo | Rejection\nReasons | Descriptions | Detailed Cause",
+      "type": "table_row"
+    },
+    {
+      "row_text": "4 | Higher\nBudget\nMovement | Higher Budget reallocated to\nother line | Optimus benchmarks historical data, but Traders hesitant to reallocate large amounts of budget/impressions",
+      "cells": [
+        "4",
+        "Higher\nBudget\nMovement",
+        "Higher Budget reallocated to\nother line",
+        "Optimus benchmarks historical data, but Traders hesitant to reallocate large amounts of budget/impressions"
+      ],
+      "source_file": "Optimus Recommendation Rejection_105ba7c854034b278806e34c248a0d88-191025-2240-1706_extracted.json",
+      "payload_idx": 4,
+      "table_idx": 0,
+      "row_idx": 3,
+      "table_headers": [
+        "S\nr\nNo",
+        "Rejection\nReasons",
+        "Descriptions",
+        "Detailed Cause"
+      ],
+      "header_text": "S\nr\nNo | Rejection\nReasons | Descriptions | Detailed Cause",
+      "type": "table_row"
+    },
+    {
+      "row_text": "5 | Incorrect\nSuggestion | Something like mismatch in\nbudget reallocation | For example, higher budget being moved from the line and less budget assigned and vice versa.\nFrequency should be low (not often).\nTraders make decision to take action on campaign outside of optimization recommendation in scenarios where...\nClient directly requested budget changes or adjustments to media plan/strategy – which renders Optimus\nrecommendation not current/relevant",
+      "cells": [
+        "5",
+        "Incorrect\nSuggestion",
+        "Something like mismatch in\nbudget reallocation",
+        "For example, higher budget being moved from the line and less budget assigned and vice versa.\nFrequency should be low (not often).\nTraders make decision to take action on campaign outside of optimization recommendation in scenarios where...\nClient directly requested budget changes or adjustments to media plan/strategy – which renders Optimus\nrecommendation not current/relevant"
+      ],
+      "source_file": "Optimus Recommendation Rejection_105ba7c854034b278806e34c248a0d88-191025-2240-1706_extracted.json",
+      "payload_idx": 4,
+      "table_idx": 0,
+      "row_idx": 4,
+      "table_headers": [
+        "S\nr\nNo",
+        "Rejection\nReasons",
+        "Descriptions",
+        "Detailed Cause"
+      ],
+      "header_text": "S\nr\nNo | Rejection\nReasons | Descriptions | Detailed Cause",
+      "type": "table_row"
+    },
+    {
+      "row_text": "6 | Low pacing\non the\nrecommended\nhigh\nperformance\nline | Low pacing on the\nrecommended high\nperformance line | ",
+      "cells": [
+        "6",
+        "Low pacing\non the\nrecommended\nhigh\nperformance\nline",
+        "Low pacing on the\nrecommended high\nperformance line",
+        ""
+      ],
+      "source_file": "Optimus Recommendation Rejection_105ba7c854034b278806e34c248a0d88-191025-2240-1706_extracted.json",
+      "payload_idx": 4,
+      "table_idx": 0,
+      "row_idx": 5,
+      "table_headers": [
+        "S\nr\nNo",
+        "Rejection\nReasons",
+        "Descriptions",
+        "Detailed Cause"
+      ],
+      "header_text": "S\nr\nNo | Rejection\nReasons | Descriptions | Detailed Cause",
+      "type": "table_row"
+    },
+    {
+      "row_text": "7 | Manually\nOptimized[Upd\nated with Text\nBox] | Traders decide to take action\n(s) manually and provide the\ncorrect reason in the textbox | Based on the performance and remaining duration of the flight the action was taken manually by the traders.\nA textbox is now available to provide a clear explanation when selecting this reason. Traders should ensure that\nmanual optimization and text box is chosen only under the condition that no other reject reason is eligible",
+      "cells": [
+        "7",
+        "Manually\nOptimized[Upd\nated with Text\nBox]",
+        "Traders decide to take action\n(s) manually and provide the\ncorrect reason in the textbox",
+        "Based on the performance and remaining duration of the flight the action was taken manually by the traders.\nA textbox is now available to provide a clear explanation when selecting this reason. Traders should ensure that\nmanual optimization and text box is chosen only under the condition that no other reject reason is eligible"
+      ],
+      "source_file": "Optimus Recommendation Rejection_105ba7c854034b278806e34c248a0d88-191025-2240-1706_extracted.json",
+      "payload_idx": 4,
+      "table_idx": 0,
+      "row_idx": 6,
+      "table_headers": [
+        "S\nr\nNo",
+        "Rejection\nReasons",
+        "Descriptions",
+        "Detailed Cause"
+      ],
+      "header_text": "S\nr\nNo | Rejection\nReasons | Descriptions | Detailed Cause",
+      "type": "table_row"
+    },
+    {
+      "row_text": "8 | National\nCampaign | IO/National campaign type | IO based/National campaigns should NOT be included (i.e. not eligible for optimization due to restrictions)",
+      "cells": [
+        "8",
+        "National\nCampaign",
+        "IO/National campaign type",
+        "IO based/National campaigns should NOT be included (i.e. not eligible for optimization due to restrictions)"
+      ],
+      "source_file": "Optimus Recommendation Rejection_105ba7c854034b278806e34c248a0d88-191025-2240-1706_extracted.json",
+      "payload_idx": 4,
+      "table_idx": 0,
+      "row_idx": 7,
+      "table_headers": [
+        "S\nr\nNo",
+        "Rejection\nReasons",
+        "Descriptions",
+        "Detailed Cause"
+      ],
+      "header_text": "S\nr\nNo | Rejection\nReasons | Descriptions | Detailed Cause",
+      "type": "table_row"
+    },
+    {
+      "row_text": "10 | No Inventory | Budget being reallocated to\na line with no or very low\ninventory, after trader have\ntried to expand the targeting\nfor lines reported as crunch | In certain scenarios, for example, the total inventory available is less than total remaining goal due to inventory\ncrunch, then Optimus will report \"inventory crunch\" for certain lines based on performance.\nThis recommendation serves as a guide to Trader to open up inventory on those lines where crunch is reported.\nHowever, if it is not possible to open the required inventory on those lines reported by Optimus, then Trader can\nreject the recommendation with \"No Inventory\" reason. The Trader will still have to open inventory because it is also\nimpossible to optimize it manually with the same budget and impressions constraints. But if the required inventory\nis opened, then Trader can accept the recommendation.",
+      "cells": [
+        "10",
+        "No Inventory",
+        "Budget being reallocated to\na line with no or very low\ninventory, after trader have\ntried to expand the targeting\nfor lines reported as crunch",
+        "In certain scenarios, for example, the total inventory available is less than total remaining goal due to inventory\ncrunch, then Optimus will report \"inventory crunch\" for certain lines based on performance.\nThis recommendation serves as a guide to Trader to open up inventory on those lines where crunch is reported.\nHowever, if it is not possible to open the required inventory on those lines reported by Optimus, then Trader can\nreject the recommendation with \"No Inventory\" reason. The Trader will still have to open inventory because it is also\nimpossible to optimize it manually with the same budget and impressions constraints. But if the required inventory\nis opened, then Trader can accept the recommendation."
+      ],
+      "source_file": "Optimus Recommendation Rejection_105ba7c854034b278806e34c248a0d88-191025-2240-1706_extracted.json",
+      "payload_idx": 4,
+      "table_idx": 1,
+      "row_idx": 0,
+      "table_headers": [
+        "9",
+        "Newly\nlaunched\nFlight",
+        "Too early for reallocating\nbudget, wait for more\nperformance data.",
+        ""
+      ],
+      "header_text": "9 | Newly\nlaunched\nFlight | Too early for reallocating\nbudget, wait for more\nperformance data. | ",
+      "type": "table_row"
+    },
+    {
+      "row_text": "11 | No Suggestion | Empty file | In these cases, trading partners receive an empty file when downloading optimizations available. Possible reason\ncould be tech glitch.\nFrequency should be very low (0.1% campaigns). Should be reported to Optimus product team for root cause.",
+      "cells": [
+        "11",
+        "No Suggestion",
+        "Empty file",
+        "In these cases, trading partners receive an empty file when downloading optimizations available. Possible reason\ncould be tech glitch.\nFrequency should be very low (0.1% campaigns). Should be reported to Optimus product team for root cause."
+      ],
+      "source_file": "Optimus Recommendation Rejection_105ba7c854034b278806e34c248a0d88-191025-2240-1706_extracted.json",
+      "payload_idx": 4,
+      "table_idx": 1,
+      "row_idx": 1,
+      "table_headers": [
+        "9",
+        "Newly\nlaunched\nFlight",
+        "Too early for reallocating\nbudget, wait for more\nperformance data.",
+        ""
+      ],
+      "header_text": "9 | Newly\nlaunched\nFlight | Too early for reallocating\nbudget, wait for more\nperformance data. | ",
+      "type": "table_row"
+    },
+    {
+      "row_text": " |  |  | ",
+      "cells": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "source_file": "Optimus Recommendation Rejection_105ba7c854034b278806e34c248a0d88-191025-2240-1706_extracted.json",
+      "payload_idx": 4,
+      "table_idx": 1,
+      "row_idx": 2,
+      "table_headers": [
+        "9",
+        "Newly\nlaunched\nFlight",
+        "Too early for reallocating\nbudget, wait for more\nperformance data.",
+        ""
+      ],
+      "header_text": "9 | Newly\nlaunched\nFlight | Too early for reallocating\nbudget, wait for more\nperformance data. | ",
+      "type": "table_row"
+    },
+    {
+      "row_text": "12 | Reallocation\nto Ended\nVersion | Budget added to ended\nversion | This can happen when there many flights which have multiple versions for each one of them. Based on the\nperformance, even if the version was ended, if Optimus saw that it was working well, the budget was transferred to\nthe line.",
+      "cells": [
+        "12",
+        "Reallocation\nto Ended\nVersion",
+        "Budget added to ended\nversion",
+        "This can happen when there many flights which have multiple versions for each one of them. Based on the\nperformance, even if the version was ended, if Optimus saw that it was working well, the budget was transferred to\nthe line."
+      ],
+      "source_file": "Optimus Recommendation Rejection_105ba7c854034b278806e34c248a0d88-191025-2240-1706_extracted.json",
+      "payload_idx": 4,
+      "table_idx": 1,
+      "row_idx": 3,
+      "table_headers": [
+        "9",
+        "Newly\nlaunched\nFlight",
+        "Too early for reallocating\nbudget, wait for more\nperformance data.",
+        ""
+      ],
+      "header_text": "9 | Newly\nlaunched\nFlight | Too early for reallocating\nbudget, wait for more\nperformance data. | ",
+      "type": "table_row"
+    },
+    {
+      "row_text": "13 | Recommendat\nion is less\nthan $10 | Recommendation is less\nthan $10, will not bring\nvaluable impact of\noptimisation | ",
+      "cells": [
+        "13",
+        "Recommendat\nion is less\nthan $10",
+        "Recommendation is less\nthan $10, will not bring\nvaluable impact of\noptimisation",
+        ""
+      ],
+      "source_file": "Optimus Recommendation Rejection_105ba7c854034b278806e34c248a0d88-191025-2240-1706_extracted.json",
+      "payload_idx": 4,
+      "table_idx": 1,
+      "row_idx": 4,
+      "table_headers": [
+        "9",
+        "Newly\nlaunched\nFlight",
+        "Too early for reallocating\nbudget, wait for more\nperformance data.",
+        ""
+      ],
+      "header_text": "9 | Newly\nlaunched\nFlight | Too early for reallocating\nbudget, wait for more\nperformance data. | ",
+      "type": "table_row"
+    },
+    {
+      "row_text": "14 | Specific\nBrand\nApproval | Brands have defined KPI\nwhich needs to be fulfilled\nClient requests specific\nlimitations with how inventory\ncan be managed across line\nitems - not eligible for\noptimization. | Client request for Media Plan change a lot of times, based on the goal they have in mind. So at this moment\nOptimus recommendation will not be as much as fruitful as it could have been until the updated MP\nThis generally occurs when the recommendations are received prior to changes being implemented in CMP.\nFor example, there's an outstanding change (or adjustment) to the Media Plan which the Trading team is aware of –\nbut has not been implemented yet – so Optimus is sending recommendations pre-change.",
+      "cells": [
+        "14",
+        "Specific\nBrand\nApproval",
+        "Brands have defined KPI\nwhich needs to be fulfilled\nClient requests specific\nlimitations with how inventory\ncan be managed across line\nitems - not eligible for\noptimization.",
+        "Client request for Media Plan change a lot of times, based on the goal they have in mind. So at this moment\nOptimus recommendation will not be as much as fruitful as it could have been until the updated MP\nThis generally occurs when the recommendations are received prior to changes being implemented in CMP.\nFor example, there's an outstanding change (or adjustment) to the Media Plan which the Trading team is aware of –\nbut has not been implemented yet – so Optimus is sending recommendations pre-change."
+      ],
+      "source_file": "Optimus Recommendation Rejection_105ba7c854034b278806e34c248a0d88-191025-2240-1706_extracted.json",
+      "payload_idx": 4,
+      "table_idx": 1,
+      "row_idx": 5,
+      "table_headers": [
+        "9",
+        "Newly\nlaunched\nFlight",
+        "Too early for reallocating\nbudget, wait for more\nperformance data.",
+        ""
+      ],
+      "header_text": "9 | Newly\nlaunched\nFlight | Too early for reallocating\nbudget, wait for more\nperformance data. | ",
+      "type": "table_row"
+    },
+    {
+      "row_text": "15 | Version has\ndifferent\nobjective | Version has different\nobjective | ",
+      "cells": [
+        "15",
+        "Version has\ndifferent\nobjective",
+        "Version has different\nobjective",
+        ""
+      ],
+      "source_file": "Optimus Recommendation Rejection_105ba7c854034b278806e34c248a0d88-191025-2240-1706_extracted.json",
+      "payload_idx": 4,
+      "table_idx": 1,
+      "row_idx": 6,
+      "table_headers": [
+        "9",
+        "Newly\nlaunched\nFlight",
+        "Too early for reallocating\nbudget, wait for more\nperformance data.",
+        ""
+      ],
+      "header_text": "9 | Newly\nlaunched\nFlight | Too early for reallocating\nbudget, wait for more\nperformance data. | ",
+      "type": "table_row"
+    },
+    {
+      "row_text": "16\n[\nN\ne\nw] | Error in 2 or\nless versions\nwhere\ncampaigns\ncontains 5 or\nmore versions | Entire recommendation was\nrejected due to error in 2 or\nless versions where\ncampaigns contains 5 or\nmore versions | Use this reason strictly only when you are rejecting recommendation for a campaign having 5 or more versions, and\nthe error is present in 2 or fewer versions.",
+      "cells": [
+        "16\n[\nN\ne\nw]",
+        "Error in 2 or\nless versions\nwhere\ncampaigns\ncontains 5 or\nmore versions",
+        "Entire recommendation was\nrejected due to error in 2 or\nless versions where\ncampaigns contains 5 or\nmore versions",
+        "Use this reason strictly only when you are rejecting recommendation for a campaign having 5 or more versions, and\nthe error is present in 2 or fewer versions."
+      ],
+      "source_file": "Optimus Recommendation Rejection_105ba7c854034b278806e34c248a0d88-191025-2240-1706_extracted.json",
+      "payload_idx": 4,
+      "table_idx": 1,
+      "row_idx": 7,
+      "table_headers": [
+        "9",
+        "Newly\nlaunched\nFlight",
+        "Too early for reallocating\nbudget, wait for more\nperformance data.",
+        ""
+      ],
+      "header_text": "9 | Newly\nlaunched\nFlight | Too early for reallocating\nbudget, wait for more\nperformance data. | ",
+      "type": "table_row"
+    },
+    {
+      "row_text": "D\ne\np\nr\ne\nc\nat\ned | Other | Exceptional scenarios not\nincluded in reject reasons list | Need to be reported to Product Team. (Text Box not available)",
+      "cells": [
+        "D\ne\np\nr\ne\nc\nat\ned",
+        "Other",
+        "Exceptional scenarios not\nincluded in reject reasons list",
+        "Need to be reported to Product Team. (Text Box not available)"
+      ],
+      "source_file": "Optimus Recommendation Rejection_105ba7c854034b278806e34c248a0d88-191025-2240-1706_extracted.json",
+      "payload_idx": 4,
+      "table_idx": 1,
+      "row_idx": 8,
+      "table_headers": [
+        "9",
+        "Newly\nlaunched\nFlight",
+        "Too early for reallocating\nbudget, wait for more\nperformance data.",
+        ""
+      ],
+      "header_text": "9 | Newly\nlaunched\nFlight | Too early for reallocating\nbudget, wait for more\nperformance data. | ",
+      "type": "table_row"
+    },
+    {
+      "row_text": "Additi\nonal\nOptim\nizatio\nn\nLever\ns – T.\ncom | Hi\ngh | Infigh\nt Aud\nience\nReco\nmme\nndati\non\n(Dev\n& A\n/B\nTest)\n– T.\ncom\nInven\ntory\nOpti\nmizat\nion –\nCate\ngory\nExpa\nnsion\n(Dev)\n- T.\ncom | Infight Audience Recommendati\non – TCOM Enhancement mode\nl\nInventory Optimization – Search\n& audience\nInfight Audience Recommendati\non – TCOM Enhancement mode\nl - To support add/replacement\nof the audience segments\ncompleted.\nInventory Optimization – Search\n& audience - Moved to Q4 as\nCMP hasn't prioritized for\nintegration, OBB additional\nrequirements & waiting on the\nkeyword recommendation\nmodel in preflight for leverage. | Inventory Optimization - A/B\nTest Completion\nHolistic optimization across\nlevers – MVP 1\nInfight Audience Recommend\nation – CMP Integration in\nprogress, Measurement\ncommitted timeline is\ncurrently Sept.\nInventory Optimization – Cate\ngory Expansion - A/B test\ncompleted. Results have\nbeen shared with broader\nteams. Planned for CMP\nintegration as part of PPR\nrelease. - Inventory\nOptimization\nHolistic optimization across\nlevers – MVP 1 - Change in\nscope and resource moved\nfor a different project. Hence\nthis will be delivered by Q3 | Inflight Audience Recommendation\n- CMP Integration for RoA and\nContextual Lines\nInfight\nAudience Recommendation –\nTCOM –\nBespoke audience generation\nHolistic Optimization across levers -\nMVP 1 - Discovery & Development\nInfight Audience Recommendation\n– CMP Integration in progress,\nMeasurement committed timeline is\ncurrently Sept. Inflight Audience for\nContextual Lines - GTM & PSG\nRead\nInflight Audience Recommendation\nHolistic optimization across levers –\nMVP 1 - Creative weightage has\nbeen brought in as an additional\nmandatory requirement by MAG\nteam. Hence Holistic will be\ndelivered by Q2 2026 post\ncompletion of PPR requirements |  | Invent\nory op\ntimizat\nion for\naware\nness\nand co\nnsider\nation c\nampai\ngns | Holistic\nOptimizatio\nn across\nlevers -\nMVP 1 - A\n/B Test &\nDeployment\nCross\nChannel\nOptimizatio\nn - (Low\nConfidence) | Inve\nntor\ny\nOpti\nmiz\natio\nn -\nSea\nrch |  | A\nu\ndi\ne\nn\nc\ne\nS\ntr\nat\ne\ng\ny\n&\nC\nAP\nC\nM\nP\n(\nU\nI)\nG\nT\nM\n,\nT\n&\nO\n(\nA\nB\nT\ne\nst\n,\nA\nd\no\npt\nio\nn)\nO\nB\nB\n(\nO\npt\ni\nm\niz\nat\nio\nn\nst\nr\nat\ne\ng\ny\nto\nb\ne\nfi\nn\nal\niz\ne\nd)",
+      "cells": [
+        "Additi\nonal\nOptim\nizatio\nn\nLever\ns – T.\ncom",
+        "Hi\ngh",
+        "Infigh\nt Aud\nience\nReco\nmme\nndati\non\n(Dev\n& A\n/B\nTest)\n– T.\ncom\nInven\ntory\nOpti\nmizat\nion –\nCate\ngory\nExpa\nnsion\n(Dev)\n- T.\ncom",
+        "Infight Audience Recommendati\non – TCOM Enhancement mode\nl\nInventory Optimization – Search\n& audience\nInfight Audience Recommendati\non – TCOM Enhancement mode\nl - To support add/replacement\nof the audience segments\ncompleted.\nInventory Optimization – Search\n& audience - Moved to Q4 as\nCMP hasn't prioritized for\nintegration, OBB additional\nrequirements & waiting on the\nkeyword recommendation\nmodel in preflight for leverage.",
+        "Inventory Optimization - A/B\nTest Completion\nHolistic optimization across\nlevers – MVP 1\nInfight Audience Recommend\nation – CMP Integration in\nprogress, Measurement\ncommitted timeline is\ncurrently Sept.\nInventory Optimization – Cate\ngory Expansion - A/B test\ncompleted. Results have\nbeen shared with broader\nteams. Planned for CMP\nintegration as part of PPR\nrelease. - Inventory\nOptimization\nHolistic optimization across\nlevers – MVP 1 - Change in\nscope and resource moved\nfor a different project. Hence\nthis will be delivered by Q3",
+        "Inflight Audience Recommendation\n- CMP Integration for RoA and\nContextual Lines\nInfight\nAudience Recommendation –\nTCOM –\nBespoke audience generation\nHolistic Optimization across levers -\nMVP 1 - Discovery & Development\nInfight Audience Recommendation\n– CMP Integration in progress,\nMeasurement committed timeline is\ncurrently Sept. Inflight Audience for\nContextual Lines - GTM & PSG\nRead\nInflight Audience Recommendation\nHolistic optimization across levers –\nMVP 1 - Creative weightage has\nbeen brought in as an additional\nmandatory requirement by MAG\nteam. Hence Holistic will be\ndelivered by Q2 2026 post\ncompletion of PPR requirements",
+        "",
+        "Invent\nory op\ntimizat\nion for\naware\nness\nand co\nnsider\nation c\nampai\ngns",
+        "Holistic\nOptimizatio\nn across\nlevers -\nMVP 1 - A\n/B Test &\nDeployment\nCross\nChannel\nOptimizatio\nn - (Low\nConfidence)",
+        "Inve\nntor\ny\nOpti\nmiz\natio\nn -\nSea\nrch",
+        "",
+        "A\nu\ndi\ne\nn\nc\ne\nS\ntr\nat\ne\ng\ny\n&\nC\nAP\nC\nM\nP\n(\nU\nI)\nG\nT\nM\n,\nT\n&\nO\n(\nA\nB\nT\ne\nst\n,\nA\nd\no\npt\nio\nn)\nO\nB\nB\n(\nO\npt\ni\nm\niz\nat\nio\nn\nst\nr\nat\ne\ng\ny\nto\nb\ne\nfi\nn\nal\niz\ne\nd)"
+      ],
+      "source_file": "Copy of Optimus 2025_736e298495384451b5c606dda3d3e3f3-191025-2239-1698_extracted.json",
+      "payload_idx": 5,
+      "table_idx": 0,
+      "row_idx": 0,
+      "table_headers": [
+        "Categ\nory",
+        "C\non\nfid\nen\nce",
+        "Q4 2024",
+        "Q1 2025",
+        "Q2 2025",
+        "Q3 2025",
+        "Q4 2025",
+        "Q1 2026",
+        "Q2 2026",
+        "Q3\n2026",
+        "Q\n4\n20\n26",
+        "Depend\nencies\n(Team\n+\nWork)"
+      ],
+      "header_text": "Categ\nory | C\non\nfid\nen\nce | Q4 2024 | Q1 2025 | Q2 2025 | Q3 2025 | Q4 2025 | Q1 2026 | Q2 2026 | Q3\n2026 | Q\n4\n20\n26 | Depend\nencies\n(Team\n+\nWork)",
+      "type": "table_row"
+    },
+    {
+      "row_text": "Other\nProdu\nct Su\npport | Hi\ngh | Audi\nence\nRoA\nS pre\ndictio\nn for\nMPR\nbudg\net all\nocati\non | Audience recommendation from\nexisting pool (Conversion)\n– Catalog & custom segments\nUpsell recommendation for\nKiosk\nAudience recommendation from\nexisting pool (Conversion) –\nCatalog & custom segments- De\nprioritized as CMP did not pick\nup for delivery\nUpsell Recommendation for\nKiosk - On track | Optimus integration with Rade\nus\nOptimus integration with\nRadeus - Deprioritized as per\nRadeus roadmap. Will be\nrevisited in Q4\nUpsell Recommendation for\nKiosk - On track | Self\nService campaign Recommendation\ns – Phase 1 (Low Confidence) | Radeu\ns\nIntegr\nation\nCusto\nm\naudien\nce\nrecom\nmend\nation\nfor\nMPR\nSelf\nServic\ne cam\npaign\nReco\nmmen\ndation\ns –\nPhase\n2 (Low\nConfi\ndence) | Self\nServic\ne\ncampa\nign\nReco\nmmen\ndation\ns –\nPhase\n3\n(Low\nConfid\nence) |  |  |  | G\nT\nM\n(\nA\nB\nT\ne\nst\n,\nA\nd\no\npt\nio\nn)",
+      "cells": [
+        "Other\nProdu\nct Su\npport",
+        "Hi\ngh",
+        "Audi\nence\nRoA\nS pre\ndictio\nn for\nMPR\nbudg\net all\nocati\non",
+        "Audience recommendation from\nexisting pool (Conversion)\n– Catalog & custom segments\nUpsell recommendation for\nKiosk\nAudience recommendation from\nexisting pool (Conversion) –\nCatalog & custom segments- De\nprioritized as CMP did not pick\nup for delivery\nUpsell Recommendation for\nKiosk - On track",
+        "Optimus integration with Rade\nus\nOptimus integration with\nRadeus - Deprioritized as per\nRadeus roadmap. Will be\nrevisited in Q4\nUpsell Recommendation for\nKiosk - On track",
+        "Self\nService campaign Recommendation\ns – Phase 1 (Low Confidence)",
+        "Radeu\ns\nIntegr\nation\nCusto\nm\naudien\nce\nrecom\nmend\nation\nfor\nMPR\nSelf\nServic\ne cam\npaign\nReco\nmmen\ndation\ns –\nPhase\n2 (Low\nConfi\ndence)",
+        "Self\nServic\ne\ncampa\nign\nReco\nmmen\ndation\ns –\nPhase\n3\n(Low\nConfid\nence)",
+        "",
+        "",
+        "",
+        "G\nT\nM\n(\nA\nB\nT\ne\nst\n,\nA\nd\no\npt\nio\nn)"
+      ],
+      "source_file": "Copy of Optimus 2025_736e298495384451b5c606dda3d3e3f3-191025-2239-1698_extracted.json",
+      "payload_idx": 5,
+      "table_idx": 2,
+      "row_idx": 0,
+      "table_headers": [
+        "OBB",
+        "Low",
+        "",
+        "",
+        "",
+        "Audience Optimization for Reach &\nCTR - Dev\nInventory Optimization for Reach &\nCTR - Dev",
+        "Audie\nnce\nOptimi\nzation\nfor\nReach\n&\nCTR -\nCMP\nIntegr\nation\nInvent\nory\nOptimi\nzation\nfor\nReach\n&\nCTR -\nCMP\nIntegr\nation",
+        "",
+        "",
+        "",
+        "",
+        "O\nB\nB\n(\nO\npt\ni\nm\niz\nat\nio\nn\nst\nr\nat\ne\ng\ny\nto\nb\ne\nfi\nn\nal\niz\ne\nd)\nG\nT\nM\nA\nli\ng\nn\nm\ne\nnt\nT\n&\nO\nA\nli\ng\nn\nm\ne\nnt\nM\ne\na\ns\nu\nr\ne\nm\ne\nnt\n(\nM\ne\nri\ndi\na\nn,\nC\na\nn\nd\nel\na)"
+      ],
+      "header_text": "OBB | Low |  |  |  | Audience Optimization for Reach &\nCTR - Dev\nInventory Optimization for Reach &\nCTR - Dev | Audie\nnce\nOptimi\nzation\nfor\nReach\n&\nCTR -\nCMP\nIntegr\nation\nInvent\nory\nOptimi\nzation\nfor\nReach\n&\nCTR -\nCMP\nIntegr\nation |  |  |  |  | O\nB\nB\n(\nO\npt\ni\nm\niz\nat\nio\nn\nst\nr\nat\ne\ng\ny\nto\nb\ne\nfi\nn\nal\niz\ne\nd)\nG\nT\nM\nA\nli\ng\nn\nm\ne\nnt\nT\n&\nO\nA\nli\ng\nn\nm\ne\nnt\nM\ne\na\ns\nu\nr\ne\nm\ne\nnt\n(\nM\ne\nri\ndi\na\nn,\nC\na\nn\nd\nel\na)",
+      "type": "table_row"
+    }
+  ],
+  "text_embed_model": "all-MiniLM-L6-v2",
+  "table_embed_model": "all-mpnet-base-v2",
+  "text_embed_dim": 384,
+  "table_embed_dim": 768,
+  "num_paragraphs": 53,
+  "num_table_rows": 70
+}

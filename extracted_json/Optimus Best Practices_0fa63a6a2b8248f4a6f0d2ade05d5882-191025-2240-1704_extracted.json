@@ -1,0 +1,28 @@
+{
+  "type": "page",
+  "title": "Optimus Best Practices_0fa63a6a2b8248f4a6f0d2ade05d5882-191025-2240-1704",
+  "space": {
+    "key": "LOCAL"
+  },
+  "body": {
+    "storage": {
+      "value": "<h1>Optimus Best Practices_0fa63a6a2b8248f4a6f0d2ade05d5882-191025-2240-1704</h1>\n<h2>Page 1 text</h2>\n<p>Optimus Best Practices</p>\n<p>Best Practices:</p>\n<p>1.Rejection Reason Best Practices -</p>\n<p>a. Use manual optimization rejection reason on CMP only if you do not find a legitimate reason among the others that are listed. Around</p>\n<p>1% rejections had incorrect options chosen when we did a deep dive. So please take extra caution in choosing the right one.</p>\n<p>b. Use the text box along with “manual optimization” option to list the exact reason behind the rejection. We currently have 38% of</p>\n<p>rejections with incomplete information in the text box.</p>\n<p>2. Use Campaign Level Eligibility Flag to turn off optimus Recommendations for below scenarios -</p>\n<p>a. If your campaign is going through an A/B test, and you do not need Optimus recommendations – Use Campaign Eligibility flag to turn off</p>\n<p>recommendations</p>\n<p>b. If you are running campaign is pitched for an upsell and you are awaiting approval and do not need Optimus Recommendations - Use</p>\n<p>Campaign Eligibility flag to turn off recommendations</p>\n<p>c. If it’s a multi-vendor campaign that you do not need recommendations for</p>\n<p>d. If there is specific instruction to optimise a campaign on any other metric that is not provided by Optimus</p>\n<p>e. If there is a plan to move budget from the T.com campaign to off platforms</p>\n<p>f. If media plan is revised – Turn if off until the changes are implemented</p>\n<p>g. If new team members are onboarded and you want them to do manual optimization as a start</p>\n<p>3. Use Line Level Eligibility Flag to turn off optimus Recommendations for below scenarios -</p>\n<p>a. If you are running an ad group that is pitched for an upsell and you are awaiting approval and do not need Optimus to add or remove</p>\n<p>budget from that ad group - Use Line level Eligibility flag to turn off recommendations for that specific ad group</p>\n<p>b. If the version has a different objective and doesn’t have to be optimised based on RoAS use line level eligibility to remove all the ad</p>\n<p>groups from that version as today we do not have version level eligibility. We are expecting this to change as we think about OBB for</p>\n<p>O&O</p>\n<p>c. If only a line is part of any A/B test</p>\n<p>4. Training & Awareness –</p>\n<p>a. If you want to know about the working of any of the feature or why Optimus has made a recommendation even after the explainability</p>\n<p>feature, feel free to reach out to @Kirthika.R or @Komal.Shinde. Alternatively you can also refer the below confluence page which has</p>\n<p>curated a knowledge hub</p>\n<p>https://confluence.target.com/display/Optimus/Optimus</p>\n<p>a. If there are requests from AMs on any recommendations please refer to the explainability feature or reach out to us for the same</p>\n<p>5. A/B Tests –</p>\n<p>a. Always ensure the settings between A vs B lines is equal at all times. Which settings/ features needs to be the same will be</p>\n<p>communicated to the T&O spoc prior to the A/B test. Any deviations disqualifies the lines from being considered in the results</p>\n<p>measurement due to the nature of the methodology behind it.</p>\n<p>b. If for any reason the pacing/delivery settings or other changes needs to be made please notify on the shared sheet and let the A/B test</p>\n<p>product spoc know.</p>\n<p>c. Please take extra caution to ensure the sync was successful once the change is made in the campaign/line</p>",
+      "representation": "storage"
+    }
+  },
+  "metadata": {
+    "pdf_export": {
+      "original_filename": "Optimus Best Practices_0fa63a6a2b8248f4a6f0d2ade05d5882-191025-2240-1704.pdf",
+      "pages_in_pdf": 1,
+      "tables_detected": 0,
+      "visual_elements": {
+        "images": 0,
+        "diagrams": 0,
+        "charts": 0,
+        "total_pages": 1
+      },
+      "has_visuals": false
+    }
+  },
+  "attachments": []
+}

@@ -8,6 +8,7 @@ Q. Will the confluence API be hit everytime a user asks a question or there is f
 Q. What all prompt engineering was done?
 Q. How does the response of the llm model look like. Will it give Diagram and page links?
 Q. Which LLM model you chose and why?
+Q. How did you take care of section references and linkings in the doc?
 Q. Which embedding technique was used?
 Q. Which vector database was used?
 Q. How did you evaluate the performance of the model.
